@@ -1,0 +1,967 @@
+year,catch,species,scientific_name,english_name
+1950,0,DOT,Gymnosarda unicolor,Dogtooth tuna
+1951,3,DOT,Gymnosarda unicolor,Dogtooth tuna
+1952,3,DOT,Gymnosarda unicolor,Dogtooth tuna
+1953,3,DOT,Gymnosarda unicolor,Dogtooth tuna
+1954,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1955,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1956,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1957,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1958,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1959,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1960,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1961,4,DOT,Gymnosarda unicolor,Dogtooth tuna
+1962,5,DOT,Gymnosarda unicolor,Dogtooth tuna
+1963,5,DOT,Gymnosarda unicolor,Dogtooth tuna
+1964,5,DOT,Gymnosarda unicolor,Dogtooth tuna
+1965,5,DOT,Gymnosarda unicolor,Dogtooth tuna
+1966,6,DOT,Gymnosarda unicolor,Dogtooth tuna
+1967,6,DOT,Gymnosarda unicolor,Dogtooth tuna
+1968,6,DOT,Gymnosarda unicolor,Dogtooth tuna
+1969,7,DOT,Gymnosarda unicolor,Dogtooth tuna
+1970,188,DOT,Gymnosarda unicolor,Dogtooth tuna
+1971,100,DOT,Gymnosarda unicolor,Dogtooth tuna
+1972,122,DOT,Gymnosarda unicolor,Dogtooth tuna
+1973,144,DOT,Gymnosarda unicolor,Dogtooth tuna
+1974,150,DOT,Gymnosarda unicolor,Dogtooth tuna
+1975,142,DOT,Gymnosarda unicolor,Dogtooth tuna
+1976,227,DOT,Gymnosarda unicolor,Dogtooth tuna
+1977,274,DOT,Gymnosarda unicolor,Dogtooth tuna
+1978,527,DOT,Gymnosarda unicolor,Dogtooth tuna
+1979,314,DOT,Gymnosarda unicolor,Dogtooth tuna
+1980,389,DOT,Gymnosarda unicolor,Dogtooth tuna
+1981,540,DOT,Gymnosarda unicolor,Dogtooth tuna
+1982,634,DOT,Gymnosarda unicolor,Dogtooth tuna
+1983,466,DOT,Gymnosarda unicolor,Dogtooth tuna
+1984,504,DOT,Gymnosarda unicolor,Dogtooth tuna
+1985,310,DOT,Gymnosarda unicolor,Dogtooth tuna
+1986,288,DOT,Gymnosarda unicolor,Dogtooth tuna
+1987,665,DOT,Gymnosarda unicolor,Dogtooth tuna
+1988,271,DOT,Gymnosarda unicolor,Dogtooth tuna
+1989,311,DOT,Gymnosarda unicolor,Dogtooth tuna
+1990,452,DOT,Gymnosarda unicolor,Dogtooth tuna
+1991,421,DOT,Gymnosarda unicolor,Dogtooth tuna
+1992,507,DOT,Gymnosarda unicolor,Dogtooth tuna
+1993,890,DOT,Gymnosarda unicolor,Dogtooth tuna
+1994,673,DOT,Gymnosarda unicolor,Dogtooth tuna
+1995,730,DOT,Gymnosarda unicolor,Dogtooth tuna
+1996,958,DOT,Gymnosarda unicolor,Dogtooth tuna
+1997,840,DOT,Gymnosarda unicolor,Dogtooth tuna
+1998,899,DOT,Gymnosarda unicolor,Dogtooth tuna
+1999,881,DOT,Gymnosarda unicolor,Dogtooth tuna
+2000,1253,DOT,Gymnosarda unicolor,Dogtooth tuna
+2001,1483,DOT,Gymnosarda unicolor,Dogtooth tuna
+2002,1451,DOT,Gymnosarda unicolor,Dogtooth tuna
+2003,1449,DOT,Gymnosarda unicolor,Dogtooth tuna
+2004,1453,DOT,Gymnosarda unicolor,Dogtooth tuna
+2005,1584,DOT,Gymnosarda unicolor,Dogtooth tuna
+2006,1522,DOT,Gymnosarda unicolor,Dogtooth tuna
+2007,1663,DOT,Gymnosarda unicolor,Dogtooth tuna
+2008,1734,DOT,Gymnosarda unicolor,Dogtooth tuna
+2009,1969,DOT,Gymnosarda unicolor,Dogtooth tuna
+2010,2042,DOT,Gymnosarda unicolor,Dogtooth tuna
+2011,2252,DOT,Gymnosarda unicolor,Dogtooth tuna
+2012,1638,DOT,Gymnosarda unicolor,Dogtooth tuna
+2013,1716,DOT,Gymnosarda unicolor,Dogtooth tuna
+2014,1511,DOT,Gymnosarda unicolor,Dogtooth tuna
+2015,1485,DOT,Gymnosarda unicolor,Dogtooth tuna
+2016,1383,DOT,Gymnosarda unicolor,Dogtooth tuna
+2017,1390,DOT,Gymnosarda unicolor,Dogtooth tuna
+2018,1133,DOT,Gymnosarda unicolor,Dogtooth tuna
+1950,0,FRI,Auxis thazard,Frigate tuna
+1951,0,FRI,Auxis thazard,Frigate tuna
+1952,0,FRI,Auxis thazard,Frigate tuna
+1953,0,FRI,Auxis thazard,Frigate tuna
+1954,0,FRI,Auxis thazard,Frigate tuna
+1955,0,FRI,Auxis thazard,Frigate tuna
+1956,0,FRI,Auxis thazard,Frigate tuna
+1957,0,FRI,Auxis thazard,Frigate tuna
+1958,0,FRI,Auxis thazard,Frigate tuna
+1959,0,FRI,Auxis thazard,Frigate tuna
+1960,0,FRI,Auxis thazard,Frigate tuna
+1961,0,FRI,Auxis thazard,Frigate tuna
+1962,0,FRI,Auxis thazard,Frigate tuna
+1963,0,FRI,Auxis thazard,Frigate tuna
+1964,0,FRI,Auxis thazard,Frigate tuna
+1965,0,FRI,Auxis thazard,Frigate tuna
+1966,0,FRI,Auxis thazard,Frigate tuna
+1967,0,FRI,Auxis thazard,Frigate tuna
+1968,0,FRI,Auxis thazard,Frigate tuna
+1969,0,FRI,Auxis thazard,Frigate tuna
+1970,0,FRI,Auxis thazard,Frigate tuna
+1971,0,FRI,Auxis thazard,Frigate tuna
+1972,0,FRI,Auxis thazard,Frigate tuna
+1973,0,FRI,Auxis thazard,Frigate tuna
+1974,0,FRI,Auxis thazard,Frigate tuna
+1975,0,FRI,Auxis thazard,Frigate tuna
+1976,0,FRI,Auxis thazard,Frigate tuna
+1977,0,FRI,Auxis thazard,Frigate tuna
+1978,0,FRI,Auxis thazard,Frigate tuna
+1979,0,FRI,Auxis thazard,Frigate tuna
+1980,0,FRI,Auxis thazard,Frigate tuna
+1981,0,FRI,Auxis thazard,Frigate tuna
+1982,0,FRI,Auxis thazard,Frigate tuna
+1983,0,FRI,Auxis thazard,Frigate tuna
+1984,0,FRI,Auxis thazard,Frigate tuna
+1985,0,FRI,Auxis thazard,Frigate tuna
+1986,0,FRI,Auxis thazard,Frigate tuna
+1987,0,FRI,Auxis thazard,Frigate tuna
+1988,0,FRI,Auxis thazard,Frigate tuna
+1989,0,FRI,Auxis thazard,Frigate tuna
+1990,0,FRI,Auxis thazard,Frigate tuna
+1991,243,FRI,Auxis thazard,Frigate tuna
+1992,57,FRI,Auxis thazard,Frigate tuna
+1993,118,FRI,Auxis thazard,Frigate tuna
+1994,341,FRI,Auxis thazard,Frigate tuna
+1995,327,FRI,Auxis thazard,Frigate tuna
+1996,830,FRI,Auxis thazard,Frigate tuna
+1997,1248,FRI,Auxis thazard,Frigate tuna
+1998,1030,FRI,Auxis thazard,Frigate tuna
+1999,1159,FRI,Auxis thazard,Frigate tuna
+2000,1122,FRI,Auxis thazard,Frigate tuna
+2001,989,FRI,Auxis thazard,Frigate tuna
+2002,710,FRI,Auxis thazard,Frigate tuna
+2003,505,FRI,Auxis thazard,Frigate tuna
+2004,15838,FRI,Auxis thazard,Frigate tuna
+2005,89261,FRI,Auxis thazard,Frigate tuna
+2006,82713,FRI,Auxis thazard,Frigate tuna
+2007,93164,FRI,Auxis thazard,Frigate tuna
+2008,81216,FRI,Auxis thazard,Frigate tuna
+2009,100055,FRI,Auxis thazard,Frigate tuna
+2010,82546,FRI,Auxis thazard,Frigate tuna
+2011,81531,FRI,Auxis thazard,Frigate tuna
+2012,89439,FRI,Auxis thazard,Frigate tuna
+2013,125491,FRI,Auxis thazard,Frigate tuna
+2014,161887,FRI,Auxis thazard,Frigate tuna
+2015,137281,FRI,Auxis thazard,Frigate tuna
+2016,112509,FRI,Auxis thazard,Frigate tuna
+2017,115568,FRI,Auxis thazard,Frigate tuna
+2018,121954,FRI,Auxis thazard,Frigate tuna
+1950,15,BLT,Auxis rochei,Bullet tuna
+1951,15,BLT,Auxis rochei,Bullet tuna
+1952,15,BLT,Auxis rochei,Bullet tuna
+1953,23,BLT,Auxis rochei,Bullet tuna
+1954,23,BLT,Auxis rochei,Bullet tuna
+1955,24,BLT,Auxis rochei,Bullet tuna
+1956,23,BLT,Auxis rochei,Bullet tuna
+1957,58,BLT,Auxis rochei,Bullet tuna
+1958,29,BLT,Auxis rochei,Bullet tuna
+1959,29,BLT,Auxis rochei,Bullet tuna
+1960,35,BLT,Auxis rochei,Bullet tuna
+1961,32,BLT,Auxis rochei,Bullet tuna
+1962,50,BLT,Auxis rochei,Bullet tuna
+1963,74,BLT,Auxis rochei,Bullet tuna
+1964,103,BLT,Auxis rochei,Bullet tuna
+1965,112,BLT,Auxis rochei,Bullet tuna
+1966,149,BLT,Auxis rochei,Bullet tuna
+1967,145,BLT,Auxis rochei,Bullet tuna
+1968,145,BLT,Auxis rochei,Bullet tuna
+1969,131,BLT,Auxis rochei,Bullet tuna
+1970,119,BLT,Auxis rochei,Bullet tuna
+1971,97,BLT,Auxis rochei,Bullet tuna
+1972,116,BLT,Auxis rochei,Bullet tuna
+1973,91,BLT,Auxis rochei,Bullet tuna
+1974,125,BLT,Auxis rochei,Bullet tuna
+1975,138,BLT,Auxis rochei,Bullet tuna
+1976,130,BLT,Auxis rochei,Bullet tuna
+1977,116,BLT,Auxis rochei,Bullet tuna
+1978,67,BLT,Auxis rochei,Bullet tuna
+1979,117,BLT,Auxis rochei,Bullet tuna
+1980,54,BLT,Auxis rochei,Bullet tuna
+1981,83,BLT,Auxis rochei,Bullet tuna
+1982,103,BLT,Auxis rochei,Bullet tuna
+1983,35,BLT,Auxis rochei,Bullet tuna
+1984,38,BLT,Auxis rochei,Bullet tuna
+1985,63,BLT,Auxis rochei,Bullet tuna
+1986,132,BLT,Auxis rochei,Bullet tuna
+1987,0,BLT,Auxis rochei,Bullet tuna
+1988,0,BLT,Auxis rochei,Bullet tuna
+1989,0,BLT,Auxis rochei,Bullet tuna
+1990,0,BLT,Auxis rochei,Bullet tuna
+1991,0,BLT,Auxis rochei,Bullet tuna
+1992,0,BLT,Auxis rochei,Bullet tuna
+1993,0,BLT,Auxis rochei,Bullet tuna
+1994,0,BLT,Auxis rochei,Bullet tuna
+1995,0,BLT,Auxis rochei,Bullet tuna
+1996,0,BLT,Auxis rochei,Bullet tuna
+1997,0,BLT,Auxis rochei,Bullet tuna
+1998,0,BLT,Auxis rochei,Bullet tuna
+1999,1,BLT,Auxis rochei,Bullet tuna
+2000,1,BLT,Auxis rochei,Bullet tuna
+2001,1,BLT,Auxis rochei,Bullet tuna
+2002,1,BLT,Auxis rochei,Bullet tuna
+2003,1,BLT,Auxis rochei,Bullet tuna
+2004,1,BLT,Auxis rochei,Bullet tuna
+2005,9,BLT,Auxis rochei,Bullet tuna
+2006,15,BLT,Auxis rochei,Bullet tuna
+2007,362,BLT,Auxis rochei,Bullet tuna
+2008,583,BLT,Auxis rochei,Bullet tuna
+2009,461,BLT,Auxis rochei,Bullet tuna
+2010,192,BLT,Auxis rochei,Bullet tuna
+2011,1232,BLT,Auxis rochei,Bullet tuna
+2012,2592,BLT,Auxis rochei,Bullet tuna
+2013,9106,BLT,Auxis rochei,Bullet tuna
+2014,17072,BLT,Auxis rochei,Bullet tuna
+2015,22815,BLT,Auxis rochei,Bullet tuna
+2016,26903,BLT,Auxis rochei,Bullet tuna
+2017,21013,BLT,Auxis rochei,Bullet tuna
+2018,29389,BLT,Auxis rochei,Bullet tuna
+1950,23071,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1951,31431,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1952,34663,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1953,35200,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1954,42646,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1955,48765,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1956,44742,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1957,41230,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1958,49488,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1959,42407,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1960,36934,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1961,34512,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1962,34729,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1963,61947,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1964,39998,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1965,45862,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1966,45585,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1967,56308,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1968,50757,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1969,48595,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1970,62385,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1971,57806,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1972,75131,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1973,81065,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1974,79332,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1975,67314,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1976,73378,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1977,119466,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1978,89478,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1979,127196,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1980,159262,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1981,126437,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1982,130634,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1983,129941,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1984,147500,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1985,166025,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1986,158553,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1987,189241,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1988,205733,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1989,211450,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1990,185808,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1991,193328,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1992,227484,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1993,213743,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1994,226274,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1995,208812,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1996,207542,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1997,239921,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1998,225504,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1999,284494,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2000,244309,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2001,246698,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2002,303266,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2003,312260,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2004,338173,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2005,297774,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2006,301893,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2007,361029,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2008,319836,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2009,337552,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2010,362591,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2011,341982,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2012,362392,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2013,326309,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2014,340873,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2015,357963,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2016,340392.69,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2017,340500.12,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+2018,327945,FRZ,"Auxis thazard, A. rochei",Frigate and bullet tunas
+1950,165416,SKJ,Katsuwonus pelamis,Skipjack tuna
+1951,184843,SKJ,Katsuwonus pelamis,Skipjack tuna
+1952,155576,SKJ,Katsuwonus pelamis,Skipjack tuna
+1953,162655,SKJ,Katsuwonus pelamis,Skipjack tuna
+1954,209027,SKJ,Katsuwonus pelamis,Skipjack tuna
+1955,187503,SKJ,Katsuwonus pelamis,Skipjack tuna
+1956,200167,SKJ,Katsuwonus pelamis,Skipjack tuna
+1957,189966,SKJ,Katsuwonus pelamis,Skipjack tuna
+1958,260573,SKJ,Katsuwonus pelamis,Skipjack tuna
+1959,293344,SKJ,Katsuwonus pelamis,Skipjack tuna
+1960,177738,SKJ,Katsuwonus pelamis,Skipjack tuna
+1961,249285,SKJ,Katsuwonus pelamis,Skipjack tuna
+1962,287919,SKJ,Katsuwonus pelamis,Skipjack tuna
+1963,245617,SKJ,Katsuwonus pelamis,Skipjack tuna
+1964,275463,SKJ,Katsuwonus pelamis,Skipjack tuna
+1965,274486,SKJ,Katsuwonus pelamis,Skipjack tuna
+1966,351922,SKJ,Katsuwonus pelamis,Skipjack tuna
+1967,352052,SKJ,Katsuwonus pelamis,Skipjack tuna
+1968,321005,SKJ,Katsuwonus pelamis,Skipjack tuna
+1969,325401,SKJ,Katsuwonus pelamis,Skipjack tuna
+1970,402166,SKJ,Katsuwonus pelamis,Skipjack tuna
+1971,463902,SKJ,Katsuwonus pelamis,Skipjack tuna
+1972,456202,SKJ,Katsuwonus pelamis,Skipjack tuna
+1973,567120,SKJ,Katsuwonus pelamis,Skipjack tuna
+1974,690137,SKJ,Katsuwonus pelamis,Skipjack tuna
+1975,570686,SKJ,Katsuwonus pelamis,Skipjack tuna
+1976,674208,SKJ,Katsuwonus pelamis,Skipjack tuna
+1977,666912,SKJ,Katsuwonus pelamis,Skipjack tuna
+1978,840984,SKJ,Katsuwonus pelamis,Skipjack tuna
+1979,735971,SKJ,Katsuwonus pelamis,Skipjack tuna
+1980,792749,SKJ,Katsuwonus pelamis,Skipjack tuna
+1981,759895,SKJ,Katsuwonus pelamis,Skipjack tuna
+1982,788130,SKJ,Katsuwonus pelamis,Skipjack tuna
+1983,900861,SKJ,Katsuwonus pelamis,Skipjack tuna
+1984,1049271,SKJ,Katsuwonus pelamis,Skipjack tuna
+1985,905326,SKJ,Katsuwonus pelamis,Skipjack tuna
+1986,1077602,SKJ,Katsuwonus pelamis,Skipjack tuna
+1987,1023622,SKJ,Katsuwonus pelamis,Skipjack tuna
+1988,1251347,SKJ,Katsuwonus pelamis,Skipjack tuna
+1989,1224620,SKJ,Katsuwonus pelamis,Skipjack tuna
+1990,1290376,SKJ,Katsuwonus pelamis,Skipjack tuna
+1991,1575170,SKJ,Katsuwonus pelamis,Skipjack tuna
+1992,1421306,SKJ,Katsuwonus pelamis,Skipjack tuna
+1993,1460988,SKJ,Katsuwonus pelamis,Skipjack tuna
+1994,1538382,SKJ,Katsuwonus pelamis,Skipjack tuna
+1995,1623243,SKJ,Katsuwonus pelamis,Skipjack tuna
+1996,1630136,SKJ,Katsuwonus pelamis,Skipjack tuna
+1997,1572990,SKJ,Katsuwonus pelamis,Skipjack tuna
+1998,1894733,SKJ,Katsuwonus pelamis,Skipjack tuna
+1999,1945834,SKJ,Katsuwonus pelamis,Skipjack tuna
+2000,1941084,SKJ,Katsuwonus pelamis,Skipjack tuna
+2001,1816388,SKJ,Katsuwonus pelamis,Skipjack tuna
+2002,2023725,SKJ,Katsuwonus pelamis,Skipjack tuna
+2003,2127792,SKJ,Katsuwonus pelamis,Skipjack tuna
+2004,2169227,SKJ,Katsuwonus pelamis,Skipjack tuna
+2005,2377740,SKJ,Katsuwonus pelamis,Skipjack tuna
+2006,2568743,SKJ,Katsuwonus pelamis,Skipjack tuna
+2007,2498458,SKJ,Katsuwonus pelamis,Skipjack tuna
+2008,2454384,SKJ,Katsuwonus pelamis,Skipjack tuna
+2009,2556584,SKJ,Katsuwonus pelamis,Skipjack tuna
+2010,2447908,SKJ,Katsuwonus pelamis,Skipjack tuna
+2011,2425560,SKJ,Katsuwonus pelamis,Skipjack tuna
+2012,2585708,SKJ,Katsuwonus pelamis,Skipjack tuna
+2013,2790744,SKJ,Katsuwonus pelamis,Skipjack tuna
+2014,2991822,SKJ,Katsuwonus pelamis,Skipjack tuna
+2015,2810547,SKJ,Katsuwonus pelamis,Skipjack tuna
+2016,2849028,SKJ,Katsuwonus pelamis,Skipjack tuna
+2017,2773715,SKJ,Katsuwonus pelamis,Skipjack tuna
+2018,3149661,SKJ,Katsuwonus pelamis,Skipjack tuna
+1950,26088,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1951,29224,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1952,36484,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1953,37469,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1954,34814,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1955,39150,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1956,27575,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1957,34573,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1958,34135,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1959,26042,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1960,24898,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1961,28179,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1962,32747,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1963,27288,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1964,32847,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1965,29350,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1966,19141,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1967,24612,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1968,15217,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1969,16395,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1970,15081,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1971,15928,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1972,13420,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1973,14383,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1974,21965,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1975,25645,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1976,28307,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1977,25321,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1978,20118,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1979,17371,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1980,19764,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1981,19373,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1982,23511,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1983,24019,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1984,26509,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1985,26475,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1986,21365,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1987,20406,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1988,25585,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1989,22722,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1990,25154,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1991,25942,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1992,32262,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1993,35859,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1994,48011,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1995,48129,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1996,52556,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1997,47371,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1998,40676,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1999,32766,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2000,35625,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2001,35829,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2002,35466,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2003,32400,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2004,32509,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2005,36664,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2006,32267,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2007,34900,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2008,24844,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2009,21253,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2010,12941,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2011,11894,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2012,12349,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2013,14522,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2014,14643,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2015,18149,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2016,21108.98,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2017,27224,BFT,Thunnus thynnus,Atlantic bluefin tuna
+2018,29514,BFT,Thunnus thynnus,Atlantic bluefin tuna
+1950,1452,PBF,Thunnus orientalis,Pacific bluefin tuna
+1951,1952,PBF,Thunnus orientalis,Pacific bluefin tuna
+1952,19470,PBF,Thunnus orientalis,Pacific bluefin tuna
+1953,20368,PBF,Thunnus orientalis,Pacific bluefin tuna
+1954,28564,PBF,Thunnus orientalis,Pacific bluefin tuna
+1955,32112,PBF,Thunnus orientalis,Pacific bluefin tuna
+1956,40094,PBF,Thunnus orientalis,Pacific bluefin tuna
+1957,36618,PBF,Thunnus orientalis,Pacific bluefin tuna
+1958,28700,PBF,Thunnus orientalis,Pacific bluefin tuna
+1959,24553,PBF,Thunnus orientalis,Pacific bluefin tuna
+1960,27641,PBF,Thunnus orientalis,Pacific bluefin tuna
+1961,33521,PBF,Thunnus orientalis,Pacific bluefin tuna
+1962,36912,PBF,Thunnus orientalis,Pacific bluefin tuna
+1963,37399,PBF,Thunnus orientalis,Pacific bluefin tuna
+1964,32898,PBF,Thunnus orientalis,Pacific bluefin tuna
+1965,27899,PBF,Thunnus orientalis,Pacific bluefin tuna
+1966,31546,PBF,Thunnus orientalis,Pacific bluefin tuna
+1967,21294,PBF,Thunnus orientalis,Pacific bluefin tuna
+1968,21726,PBF,Thunnus orientalis,Pacific bluefin tuna
+1969,16688,PBF,Thunnus orientalis,Pacific bluefin tuna
+1970,13549,PBF,Thunnus orientalis,Pacific bluefin tuna
+1971,18775,PBF,Thunnus orientalis,Pacific bluefin tuna
+1972,21361,PBF,Thunnus orientalis,Pacific bluefin tuna
+1973,19910,PBF,Thunnus orientalis,Pacific bluefin tuna
+1974,20645,PBF,Thunnus orientalis,Pacific bluefin tuna
+1975,21003,PBF,Thunnus orientalis,Pacific bluefin tuna
+1976,19534,PBF,Thunnus orientalis,Pacific bluefin tuna
+1977,22250,PBF,Thunnus orientalis,Pacific bluefin tuna
+1978,27229,PBF,Thunnus orientalis,Pacific bluefin tuna
+1979,31381,PBF,Thunnus orientalis,Pacific bluefin tuna
+1980,22538,PBF,Thunnus orientalis,Pacific bluefin tuna
+1981,35616,PBF,Thunnus orientalis,Pacific bluefin tuna
+1982,29199,PBF,Thunnus orientalis,Pacific bluefin tuna
+1983,20656,PBF,Thunnus orientalis,Pacific bluefin tuna
+1984,11980,PBF,Thunnus orientalis,Pacific bluefin tuna
+1985,16379,PBF,Thunnus orientalis,Pacific bluefin tuna
+1986,18839,PBF,Thunnus orientalis,Pacific bluefin tuna
+1987,15420,PBF,Thunnus orientalis,Pacific bluefin tuna
+1988,8981,PBF,Thunnus orientalis,Pacific bluefin tuna
+1989,11465,PBF,Thunnus orientalis,Pacific bluefin tuna
+1990,8797,PBF,Thunnus orientalis,Pacific bluefin tuna
+1991,15865,PBF,Thunnus orientalis,Pacific bluefin tuna
+1992,13298,PBF,Thunnus orientalis,Pacific bluefin tuna
+1993,11032,PBF,Thunnus orientalis,Pacific bluefin tuna
+1994,16759,PBF,Thunnus orientalis,Pacific bluefin tuna
+1995,28226,PBF,Thunnus orientalis,Pacific bluefin tuna
+1996,23384,PBF,Thunnus orientalis,Pacific bluefin tuna
+1997,23321,PBF,Thunnus orientalis,Pacific bluefin tuna
+1998,15109,PBF,Thunnus orientalis,Pacific bluefin tuna
+1999,28251,PBF,Thunnus orientalis,Pacific bluefin tuna
+2000,30539,PBF,Thunnus orientalis,Pacific bluefin tuna
+2001,17386,PBF,Thunnus orientalis,Pacific bluefin tuna
+2002,17642,PBF,Thunnus orientalis,Pacific bluefin tuna
+2003,14035,PBF,Thunnus orientalis,Pacific bluefin tuna
+2004,23451,PBF,Thunnus orientalis,Pacific bluefin tuna
+2005,26068,PBF,Thunnus orientalis,Pacific bluefin tuna
+2006,22842,PBF,Thunnus orientalis,Pacific bluefin tuna
+2007,19339,PBF,Thunnus orientalis,Pacific bluefin tuna
+2008,21411,PBF,Thunnus orientalis,Pacific bluefin tuna
+2009,19219,PBF,Thunnus orientalis,Pacific bluefin tuna
+2010,21649,PBF,Thunnus orientalis,Pacific bluefin tuna
+2011,21371,PBF,Thunnus orientalis,Pacific bluefin tuna
+2012,13227,PBF,Thunnus orientalis,Pacific bluefin tuna
+2013,10542,PBF,Thunnus orientalis,Pacific bluefin tuna
+2014,15629,PBF,Thunnus orientalis,Pacific bluefin tuna
+2015,10155,PBF,Thunnus orientalis,Pacific bluefin tuna
+2016,11975,PBF,Thunnus orientalis,Pacific bluefin tuna
+2017,13388,PBF,Thunnus orientalis,Pacific bluefin tuna
+2018,10376,PBF,Thunnus orientalis,Pacific bluefin tuna
+1950,1423,LOT,Thunnus tonggol,Longtail tuna
+1951,1400,LOT,Thunnus tonggol,Longtail tuna
+1952,1413,LOT,Thunnus tonggol,Longtail tuna
+1953,1680,LOT,Thunnus tonggol,Longtail tuna
+1954,1923,LOT,Thunnus tonggol,Longtail tuna
+1955,1958,LOT,Thunnus tonggol,Longtail tuna
+1956,1925,LOT,Thunnus tonggol,Longtail tuna
+1957,3305,LOT,Thunnus tonggol,Longtail tuna
+1958,2449,LOT,Thunnus tonggol,Longtail tuna
+1959,3166,LOT,Thunnus tonggol,Longtail tuna
+1960,3345,LOT,Thunnus tonggol,Longtail tuna
+1961,4059,LOT,Thunnus tonggol,Longtail tuna
+1962,4842,LOT,Thunnus tonggol,Longtail tuna
+1963,5579,LOT,Thunnus tonggol,Longtail tuna
+1964,6334,LOT,Thunnus tonggol,Longtail tuna
+1965,6969,LOT,Thunnus tonggol,Longtail tuna
+1966,8214,LOT,Thunnus tonggol,Longtail tuna
+1967,8484,LOT,Thunnus tonggol,Longtail tuna
+1968,8742,LOT,Thunnus tonggol,Longtail tuna
+1969,7911,LOT,Thunnus tonggol,Longtail tuna
+1970,7328,LOT,Thunnus tonggol,Longtail tuna
+1971,6327,LOT,Thunnus tonggol,Longtail tuna
+1972,7218,LOT,Thunnus tonggol,Longtail tuna
+1973,5987,LOT,Thunnus tonggol,Longtail tuna
+1974,11088,LOT,Thunnus tonggol,Longtail tuna
+1975,14602,LOT,Thunnus tonggol,Longtail tuna
+1976,12042,LOT,Thunnus tonggol,Longtail tuna
+1977,14977,LOT,Thunnus tonggol,Longtail tuna
+1978,14366,LOT,Thunnus tonggol,Longtail tuna
+1979,29045,LOT,Thunnus tonggol,Longtail tuna
+1980,25922,LOT,Thunnus tonggol,Longtail tuna
+1981,29173,LOT,Thunnus tonggol,Longtail tuna
+1982,47734,LOT,Thunnus tonggol,Longtail tuna
+1983,79656,LOT,Thunnus tonggol,Longtail tuna
+1984,68637,LOT,Thunnus tonggol,Longtail tuna
+1985,86372,LOT,Thunnus tonggol,Longtail tuna
+1986,89228,LOT,Thunnus tonggol,Longtail tuna
+1987,92638,LOT,Thunnus tonggol,Longtail tuna
+1988,173486,LOT,Thunnus tonggol,Longtail tuna
+1989,148952,LOT,Thunnus tonggol,Longtail tuna
+1990,181171,LOT,Thunnus tonggol,Longtail tuna
+1991,153204,LOT,Thunnus tonggol,Longtail tuna
+1992,133954,LOT,Thunnus tonggol,Longtail tuna
+1993,107867,LOT,Thunnus tonggol,Longtail tuna
+1994,98467,LOT,Thunnus tonggol,Longtail tuna
+1995,108934,LOT,Thunnus tonggol,Longtail tuna
+1996,101962,LOT,Thunnus tonggol,Longtail tuna
+1997,96276,LOT,Thunnus tonggol,Longtail tuna
+1998,107831,LOT,Thunnus tonggol,Longtail tuna
+1999,131336,LOT,Thunnus tonggol,Longtail tuna
+2000,160108,LOT,Thunnus tonggol,Longtail tuna
+2001,163154,LOT,Thunnus tonggol,Longtail tuna
+2002,152490,LOT,Thunnus tonggol,Longtail tuna
+2003,189652,LOT,Thunnus tonggol,Longtail tuna
+2004,250805,LOT,Thunnus tonggol,Longtail tuna
+2005,273062,LOT,Thunnus tonggol,Longtail tuna
+2006,247024,LOT,Thunnus tonggol,Longtail tuna
+2007,297702,LOT,Thunnus tonggol,Longtail tuna
+2008,256866,LOT,Thunnus tonggol,Longtail tuna
+2009,232358,LOT,Thunnus tonggol,Longtail tuna
+2010,255226,LOT,Thunnus tonggol,Longtail tuna
+2011,267654,LOT,Thunnus tonggol,Longtail tuna
+2012,258309,LOT,Thunnus tonggol,Longtail tuna
+2013,234781,LOT,Thunnus tonggol,Longtail tuna
+2014,211624,LOT,Thunnus tonggol,Longtail tuna
+2015,227437,LOT,Thunnus tonggol,Longtail tuna
+2016,236391,LOT,Thunnus tonggol,Longtail tuna
+2017,253234,LOT,Thunnus tonggol,Longtail tuna
+2018,215699,LOT,Thunnus tonggol,Longtail tuna
+1950,900,BLF,Thunnus atlanticus,Blackfin tuna
+1951,900,BLF,Thunnus atlanticus,Blackfin tuna
+1952,900,BLF,Thunnus atlanticus,Blackfin tuna
+1953,1000,BLF,Thunnus atlanticus,Blackfin tuna
+1954,1200,BLF,Thunnus atlanticus,Blackfin tuna
+1955,600,BLF,Thunnus atlanticus,Blackfin tuna
+1956,1000,BLF,Thunnus atlanticus,Blackfin tuna
+1957,1200,BLF,Thunnus atlanticus,Blackfin tuna
+1958,1900,BLF,Thunnus atlanticus,Blackfin tuna
+1959,2000,BLF,Thunnus atlanticus,Blackfin tuna
+1960,2000,BLF,Thunnus atlanticus,Blackfin tuna
+1961,1700,BLF,Thunnus atlanticus,Blackfin tuna
+1962,2300,BLF,Thunnus atlanticus,Blackfin tuna
+1963,2488,BLF,Thunnus atlanticus,Blackfin tuna
+1964,2476,BLF,Thunnus atlanticus,Blackfin tuna
+1965,2312,BLF,Thunnus atlanticus,Blackfin tuna
+1966,2062,BLF,Thunnus atlanticus,Blackfin tuna
+1967,2396,BLF,Thunnus atlanticus,Blackfin tuna
+1968,2183,BLF,Thunnus atlanticus,Blackfin tuna
+1969,2453,BLF,Thunnus atlanticus,Blackfin tuna
+1970,3652,BLF,Thunnus atlanticus,Blackfin tuna
+1971,3475,BLF,Thunnus atlanticus,Blackfin tuna
+1972,3295,BLF,Thunnus atlanticus,Blackfin tuna
+1973,1276,BLF,Thunnus atlanticus,Blackfin tuna
+1974,1722,BLF,Thunnus atlanticus,Blackfin tuna
+1975,1305,BLF,Thunnus atlanticus,Blackfin tuna
+1976,1796,BLF,Thunnus atlanticus,Blackfin tuna
+1977,2081,BLF,Thunnus atlanticus,Blackfin tuna
+1978,2271,BLF,Thunnus atlanticus,Blackfin tuna
+1979,1975,BLF,Thunnus atlanticus,Blackfin tuna
+1980,2090,BLF,Thunnus atlanticus,Blackfin tuna
+1981,2705,BLF,Thunnus atlanticus,Blackfin tuna
+1982,2783,BLF,Thunnus atlanticus,Blackfin tuna
+1983,2540,BLF,Thunnus atlanticus,Blackfin tuna
+1984,2729,BLF,Thunnus atlanticus,Blackfin tuna
+1985,2176,BLF,Thunnus atlanticus,Blackfin tuna
+1986,3383,BLF,Thunnus atlanticus,Blackfin tuna
+1987,4087,BLF,Thunnus atlanticus,Blackfin tuna
+1988,3773,BLF,Thunnus atlanticus,Blackfin tuna
+1989,3628,BLF,Thunnus atlanticus,Blackfin tuna
+1990,4747,BLF,Thunnus atlanticus,Blackfin tuna
+1991,5405,BLF,Thunnus atlanticus,Blackfin tuna
+1992,5524,BLF,Thunnus atlanticus,Blackfin tuna
+1993,4293,BLF,Thunnus atlanticus,Blackfin tuna
+1994,3663,BLF,Thunnus atlanticus,Blackfin tuna
+1995,4906,BLF,Thunnus atlanticus,Blackfin tuna
+1996,4614,BLF,Thunnus atlanticus,Blackfin tuna
+1997,2584,BLF,Thunnus atlanticus,Blackfin tuna
+1998,2898,BLF,Thunnus atlanticus,Blackfin tuna
+1999,3000,BLF,Thunnus atlanticus,Blackfin tuna
+2000,2419,BLF,Thunnus atlanticus,Blackfin tuna
+2001,4364,BLF,Thunnus atlanticus,Blackfin tuna
+2002,5260,BLF,Thunnus atlanticus,Blackfin tuna
+2003,1577,BLF,Thunnus atlanticus,Blackfin tuna
+2004,1896,BLF,Thunnus atlanticus,Blackfin tuna
+2005,1454,BLF,Thunnus atlanticus,Blackfin tuna
+2006,1684,BLF,Thunnus atlanticus,Blackfin tuna
+2007,2048,BLF,Thunnus atlanticus,Blackfin tuna
+2008,1889,BLF,Thunnus atlanticus,Blackfin tuna
+2009,2727,BLF,Thunnus atlanticus,Blackfin tuna
+2010,2597,BLF,Thunnus atlanticus,Blackfin tuna
+2011,2250,BLF,Thunnus atlanticus,Blackfin tuna
+2012,2040,BLF,Thunnus atlanticus,Blackfin tuna
+2013,1917,BLF,Thunnus atlanticus,Blackfin tuna
+2014,2187,BLF,Thunnus atlanticus,Blackfin tuna
+2015,1568,BLF,Thunnus atlanticus,Blackfin tuna
+2016,1608,BLF,Thunnus atlanticus,Blackfin tuna
+2017,1527,BLF,Thunnus atlanticus,Blackfin tuna
+2018,1655,BLF,Thunnus atlanticus,Blackfin tuna
+1950,0,SBF,Thunnus maccoyii,Southern bluefin tuna
+1951,0,SBF,Thunnus maccoyii,Southern bluefin tuna
+1952,13716,SBF,Thunnus maccoyii,Southern bluefin tuna
+1953,10548,SBF,Thunnus maccoyii,Southern bluefin tuna
+1954,9194,SBF,Thunnus maccoyii,Southern bluefin tuna
+1955,10693,SBF,Thunnus maccoyii,Southern bluefin tuna
+1956,20745,SBF,Thunnus maccoyii,Southern bluefin tuna
+1957,24324,SBF,Thunnus maccoyii,Southern bluefin tuna
+1958,15471,SBF,Thunnus maccoyii,Southern bluefin tuna
+1959,63942,SBF,Thunnus maccoyii,Southern bluefin tuna
+1960,78730,SBF,Thunnus maccoyii,Southern bluefin tuna
+1961,81416,SBF,Thunnus maccoyii,Southern bluefin tuna
+1962,45041,SBF,Thunnus maccoyii,Southern bluefin tuna
+1963,66688,SBF,Thunnus maccoyii,Southern bluefin tuna
+1964,49994,SBF,Thunnus maccoyii,Southern bluefin tuna
+1965,47602,SBF,Thunnus maccoyii,Southern bluefin tuna
+1966,47736,SBF,Thunnus maccoyii,Southern bluefin tuna
+1967,65805,SBF,Thunnus maccoyii,Southern bluefin tuna
+1968,58840,SBF,Thunnus maccoyii,Southern bluefin tuna
+1969,58865,SBF,Thunnus maccoyii,Southern bluefin tuna
+1970,48590,SBF,Thunnus maccoyii,Southern bluefin tuna
+1971,45746,SBF,Thunnus maccoyii,Southern bluefin tuna
+1972,52012,SBF,Thunnus maccoyii,Southern bluefin tuna
+1973,41463,SBF,Thunnus maccoyii,Southern bluefin tuna
+1974,46976,SBF,Thunnus maccoyii,Southern bluefin tuna
+1975,33053,SBF,Thunnus maccoyii,Southern bluefin tuna
+1976,42192,SBF,Thunnus maccoyii,Southern bluefin tuna
+1977,42204,SBF,Thunnus maccoyii,Southern bluefin tuna
+1978,35706,SBF,Thunnus maccoyii,Southern bluefin tuna
+1979,38590,SBF,Thunnus maccoyii,Southern bluefin tuna
+1980,44771,SBF,Thunnus maccoyii,Southern bluefin tuna
+1981,45160,SBF,Thunnus maccoyii,Southern bluefin tuna
+1982,42661,SBF,Thunnus maccoyii,Southern bluefin tuna
+1983,42597,SBF,Thunnus maccoyii,Southern bluefin tuna
+1984,36626,SBF,Thunnus maccoyii,Southern bluefin tuna
+1985,33051,SBF,Thunnus maccoyii,Southern bluefin tuna
+1986,28531,SBF,Thunnus maccoyii,Southern bluefin tuna
+1987,25038,SBF,Thunnus maccoyii,Southern bluefin tuna
+1988,22586,SBF,Thunnus maccoyii,Southern bluefin tuna
+1989,17052,SBF,Thunnus maccoyii,Southern bluefin tuna
+1990,14200,SBF,Thunnus maccoyii,Southern bluefin tuna
+1991,10864,SBF,Thunnus maccoyii,Southern bluefin tuna
+1992,12970,SBF,Thunnus maccoyii,Southern bluefin tuna
+1993,13273,SBF,Thunnus maccoyii,Southern bluefin tuna
+1994,11879,SBF,Thunnus maccoyii,Southern bluefin tuna
+1995,13722,SBF,Thunnus maccoyii,Southern bluefin tuna
+1996,16536,SBF,Thunnus maccoyii,Southern bluefin tuna
+1997,15969,SBF,Thunnus maccoyii,Southern bluefin tuna
+1998,17712,SBF,Thunnus maccoyii,Southern bluefin tuna
+1999,19646,SBF,Thunnus maccoyii,Southern bluefin tuna
+2000,15219,SBF,Thunnus maccoyii,Southern bluefin tuna
+2001,17224,SBF,Thunnus maccoyii,Southern bluefin tuna
+2002,15571,SBF,Thunnus maccoyii,Southern bluefin tuna
+2003,13977,SBF,Thunnus maccoyii,Southern bluefin tuna
+2004,14632,SBF,Thunnus maccoyii,Southern bluefin tuna
+2005,16884,SBF,Thunnus maccoyii,Southern bluefin tuna
+2006,12658,SBF,Thunnus maccoyii,Southern bluefin tuna
+2007,10909,SBF,Thunnus maccoyii,Southern bluefin tuna
+2008,10894,SBF,Thunnus maccoyii,Southern bluefin tuna
+2009,11084,SBF,Thunnus maccoyii,Southern bluefin tuna
+2010,9730,SBF,Thunnus maccoyii,Southern bluefin tuna
+2011,9403,SBF,Thunnus maccoyii,Southern bluefin tuna
+2012,10196,SBF,Thunnus maccoyii,Southern bluefin tuna
+2013,11174,SBF,Thunnus maccoyii,Southern bluefin tuna
+2014,11420,SBF,Thunnus maccoyii,Southern bluefin tuna
+2015,13890,SBF,Thunnus maccoyii,Southern bluefin tuna
+2016,14214,SBF,Thunnus maccoyii,Southern bluefin tuna
+2017,12796,SBF,Thunnus maccoyii,Southern bluefin tuna
+2018,15026,SBF,Thunnus maccoyii,Southern bluefin tuna
+1950,120203,YFT,Thunnus albacares,Yellowfin tuna
+1951,103400,YFT,Thunnus albacares,Yellowfin tuna
+1952,128482,YFT,Thunnus albacares,Yellowfin tuna
+1953,125059,YFT,Thunnus albacares,Yellowfin tuna
+1954,141147,YFT,Thunnus albacares,Yellowfin tuna
+1955,162620,YFT,Thunnus albacares,Yellowfin tuna
+1956,180176,YFT,Thunnus albacares,Yellowfin tuna
+1957,204712,YFT,Thunnus albacares,Yellowfin tuna
+1958,218818,YFT,Thunnus albacares,Yellowfin tuna
+1959,225246,YFT,Thunnus albacares,Yellowfin tuna
+1960,296844,YFT,Thunnus albacares,Yellowfin tuna
+1961,292775,YFT,Thunnus albacares,Yellowfin tuna
+1962,276480,YFT,Thunnus albacares,Yellowfin tuna
+1963,254456,YFT,Thunnus albacares,Yellowfin tuna
+1964,271333,YFT,Thunnus albacares,Yellowfin tuna
+1965,269696,YFT,Thunnus albacares,Yellowfin tuna
+1966,275678,YFT,Thunnus albacares,Yellowfin tuna
+1967,255542,YFT,Thunnus albacares,Yellowfin tuna
+1968,320925,YFT,Thunnus albacares,Yellowfin tuna
+1969,334932,YFT,Thunnus albacares,Yellowfin tuna
+1970,367932,YFT,Thunnus albacares,Yellowfin tuna
+1971,318068,YFT,Thunnus albacares,Yellowfin tuna
+1972,427436,YFT,Thunnus albacares,Yellowfin tuna
+1973,475156,YFT,Thunnus albacares,Yellowfin tuna
+1974,500093,YFT,Thunnus albacares,Yellowfin tuna
+1975,509804,YFT,Thunnus albacares,Yellowfin tuna
+1976,557318,YFT,Thunnus albacares,Yellowfin tuna
+1977,570634,YFT,Thunnus albacares,Yellowfin tuna
+1978,549103,YFT,Thunnus albacares,Yellowfin tuna
+1979,557456,YFT,Thunnus albacares,Yellowfin tuna
+1980,553269,YFT,Thunnus albacares,Yellowfin tuna
+1981,615295,YFT,Thunnus albacares,Yellowfin tuna
+1982,577795,YFT,Thunnus albacares,Yellowfin tuna
+1983,602298,YFT,Thunnus albacares,Yellowfin tuna
+1984,626311,YFT,Thunnus albacares,Yellowfin tuna
+1985,742538,YFT,Thunnus albacares,Yellowfin tuna
+1986,817048,YFT,Thunnus albacares,Yellowfin tuna
+1987,904495,YFT,Thunnus albacares,Yellowfin tuna
+1988,921312,YFT,Thunnus albacares,Yellowfin tuna
+1989,950691,YFT,Thunnus albacares,Yellowfin tuna
+1990,995887,YFT,Thunnus albacares,Yellowfin tuna
+1991,947975,YFT,Thunnus albacares,Yellowfin tuna
+1992,1061454,YFT,Thunnus albacares,Yellowfin tuna
+1993,1117975,YFT,Thunnus albacares,Yellowfin tuna
+1994,1099350,YFT,Thunnus albacares,Yellowfin tuna
+1995,1056459,YFT,Thunnus albacares,Yellowfin tuna
+1996,1073964,YFT,Thunnus albacares,Yellowfin tuna
+1997,1184710,YFT,Thunnus albacares,Yellowfin tuna
+1998,1225049,YFT,Thunnus albacares,Yellowfin tuna
+1999,1207514,YFT,Thunnus albacares,Yellowfin tuna
+2000,1205478,YFT,Thunnus albacares,Yellowfin tuna
+2001,1324985,YFT,Thunnus albacares,Yellowfin tuna
+2002,1319776,YFT,Thunnus albacares,Yellowfin tuna
+2003,1400525,YFT,Thunnus albacares,Yellowfin tuna
+2004,1468379,YFT,Thunnus albacares,Yellowfin tuna
+2005,1375034,YFT,Thunnus albacares,Yellowfin tuna
+2006,1187510,YFT,Thunnus albacares,Yellowfin tuna
+2007,1093197,YFT,Thunnus albacares,Yellowfin tuna
+2008,1160317,YFT,Thunnus albacares,Yellowfin tuna
+2009,1124452,YFT,Thunnus albacares,Yellowfin tuna
+2010,1195981,YFT,Thunnus albacares,Yellowfin tuna
+2011,1154201,YFT,Thunnus albacares,Yellowfin tuna
+2012,1292539,YFT,Thunnus albacares,Yellowfin tuna
+2013,1250704,YFT,Thunnus albacares,Yellowfin tuna
+2014,1356972,YFT,Thunnus albacares,Yellowfin tuna
+2015,1371548,YFT,Thunnus albacares,Yellowfin tuna
+2016,1476676,YFT,Thunnus albacares,Yellowfin tuna
+2017,1512082,YFT,Thunnus albacares,Yellowfin tuna
+2018,1456493.5,YFT,Thunnus albacares,Yellowfin tuna
+1950,829,BET,Thunnus obesus,Bigeye tuna
+1951,11698,BET,Thunnus obesus,Bigeye tuna
+1952,32960,BET,Thunnus obesus,Bigeye tuna
+1953,32194,BET,Thunnus obesus,Bigeye tuna
+1954,28782,BET,Thunnus obesus,Bigeye tuna
+1955,46964,BET,Thunnus obesus,Bigeye tuna
+1956,53527,BET,Thunnus obesus,Bigeye tuna
+1957,70418,BET,Thunnus obesus,Bigeye tuna
+1958,79298,BET,Thunnus obesus,Bigeye tuna
+1959,82924,BET,Thunnus obesus,Bigeye tuna
+1960,81033,BET,Thunnus obesus,Bigeye tuna
+1961,122349,BET,Thunnus obesus,Bigeye tuna
+1962,136738,BET,Thunnus obesus,Bigeye tuna
+1963,145148,BET,Thunnus obesus,Bigeye tuna
+1964,123322,BET,Thunnus obesus,Bigeye tuna
+1965,125611,BET,Thunnus obesus,Bigeye tuna
+1966,120333,BET,Thunnus obesus,Bigeye tuna
+1967,131225,BET,Thunnus obesus,Bigeye tuna
+1968,124006,BET,Thunnus obesus,Bigeye tuna
+1969,140891,BET,Thunnus obesus,Bigeye tuna
+1970,146789,BET,Thunnus obesus,Bigeye tuna
+1971,141611,BET,Thunnus obesus,Bigeye tuna
+1972,153040,BET,Thunnus obesus,Bigeye tuna
+1973,162653,BET,Thunnus obesus,Bigeye tuna
+1974,178083,BET,Thunnus obesus,Bigeye tuna
+1975,204023,BET,Thunnus obesus,Bigeye tuna
+1976,207156,BET,Thunnus obesus,Bigeye tuna
+1977,239989,BET,Thunnus obesus,Bigeye tuna
+1978,230913,BET,Thunnus obesus,Bigeye tuna
+1979,216694,BET,Thunnus obesus,Bigeye tuna
+1980,235520,BET,Thunnus obesus,Bigeye tuna
+1981,217284,BET,Thunnus obesus,Bigeye tuna
+1982,235564,BET,Thunnus obesus,Bigeye tuna
+1983,232815,BET,Thunnus obesus,Bigeye tuna
+1984,231740,BET,Thunnus obesus,Bigeye tuna
+1985,268958,BET,Thunnus obesus,Bigeye tuna
+1986,282497,BET,Thunnus obesus,Bigeye tuna
+1987,282472,BET,Thunnus obesus,Bigeye tuna
+1988,266630,BET,Thunnus obesus,Bigeye tuna
+1989,272653,BET,Thunnus obesus,Bigeye tuna
+1990,308674,BET,Thunnus obesus,Bigeye tuna
+1991,284318,BET,Thunnus obesus,Bigeye tuna
+1992,302191,BET,Thunnus obesus,Bigeye tuna
+1993,323528,BET,Thunnus obesus,Bigeye tuna
+1994,367289,BET,Thunnus obesus,Bigeye tuna
+1995,370801,BET,Thunnus obesus,Bigeye tuna
+1996,381176,BET,Thunnus obesus,Bigeye tuna
+1997,414977,BET,Thunnus obesus,Bigeye tuna
+1998,417718,BET,Thunnus obesus,Bigeye tuna
+1999,415099,BET,Thunnus obesus,Bigeye tuna
+2000,441181,BET,Thunnus obesus,Bigeye tuna
+2001,425541,BET,Thunnus obesus,Bigeye tuna
+2002,460880,BET,Thunnus obesus,Bigeye tuna
+2003,426541,BET,Thunnus obesus,Bigeye tuna
+2004,486830,BET,Thunnus obesus,Bigeye tuna
+2005,408607,BET,Thunnus obesus,Bigeye tuna
+2006,414963,BET,Thunnus obesus,Bigeye tuna
+2007,411188,BET,Thunnus obesus,Bigeye tuna
+2008,402038,BET,Thunnus obesus,Bigeye tuna
+2009,401579,BET,Thunnus obesus,Bigeye tuna
+2010,359324,BET,Thunnus obesus,Bigeye tuna
+2011,373993,BET,Thunnus obesus,Bigeye tuna
+2012,419162,BET,Thunnus obesus,Bigeye tuna
+2013,390794,BET,Thunnus obesus,Bigeye tuna
+2014,400373,BET,Thunnus obesus,Bigeye tuna
+2015,420305,BET,Thunnus obesus,Bigeye tuna
+2016,395327,BET,Thunnus obesus,Bigeye tuna
+2017,379684,BET,Thunnus obesus,Bigeye tuna
+2018,413823,BET,Thunnus obesus,Bigeye tuna
+1950,0,SLT,Thunnus spp,Slender tuna
+1951,0,SLT,Thunnus spp,Slender tuna
+1952,0,SLT,Thunnus spp,Slender tuna
+1953,0,SLT,Thunnus spp,Slender tuna
+1954,0,SLT,Thunnus spp,Slender tuna
+1955,0,SLT,Thunnus spp,Slender tuna
+1956,0,SLT,Thunnus spp,Slender tuna
+1957,0,SLT,Thunnus spp,Slender tuna
+1958,0,SLT,Thunnus spp,Slender tuna
+1959,0,SLT,Thunnus spp,Slender tuna
+1960,0,SLT,Thunnus spp,Slender tuna
+1961,0,SLT,Thunnus spp,Slender tuna
+1962,0,SLT,Thunnus spp,Slender tuna
+1963,0,SLT,Thunnus spp,Slender tuna
+1964,0,SLT,Thunnus spp,Slender tuna
+1965,0,SLT,Thunnus spp,Slender tuna
+1966,0,SLT,Thunnus spp,Slender tuna
+1967,0,SLT,Thunnus spp,Slender tuna
+1968,0,SLT,Thunnus spp,Slender tuna
+1969,0,SLT,Thunnus spp,Slender tuna
+1970,0,SLT,Thunnus spp,Slender tuna
+1971,0,SLT,Thunnus spp,Slender tuna
+1972,0,SLT,Thunnus spp,Slender tuna
+1973,0,SLT,Thunnus spp,Slender tuna
+1974,0,SLT,Thunnus spp,Slender tuna
+1975,0,SLT,Thunnus spp,Slender tuna
+1976,0,SLT,Thunnus spp,Slender tuna
+1977,0,SLT,Thunnus spp,Slender tuna
+1978,0,SLT,Thunnus spp,Slender tuna
+1979,0,SLT,Thunnus spp,Slender tuna
+1980,0,SLT,Thunnus spp,Slender tuna
+1981,0,SLT,Thunnus spp,Slender tuna
+1982,0,SLT,Thunnus spp,Slender tuna
+1983,0,SLT,Thunnus spp,Slender tuna
+1984,0,SLT,Thunnus spp,Slender tuna
+1985,0,SLT,Thunnus spp,Slender tuna
+1986,0,SLT,Thunnus spp,Slender tuna
+1987,0,SLT,Thunnus spp,Slender tuna
+1988,0,SLT,Thunnus spp,Slender tuna
+1989,0,SLT,Thunnus spp,Slender tuna
+1990,0,SLT,Thunnus spp,Slender tuna
+1991,0,SLT,Thunnus spp,Slender tuna
+1992,0,SLT,Thunnus spp,Slender tuna
+1993,0,SLT,Thunnus spp,Slender tuna
+1994,0,SLT,Thunnus spp,Slender tuna
+1995,0,SLT,Thunnus spp,Slender tuna
+1996,0,SLT,Thunnus spp,Slender tuna
+1997,0,SLT,Thunnus spp,Slender tuna
+1998,0,SLT,Thunnus spp,Slender tuna
+1999,2,SLT,Thunnus spp,Slender tuna
+2000,1,SLT,Thunnus spp,Slender tuna
+2001,41,SLT,Thunnus spp,Slender tuna
+2002,81,SLT,Thunnus spp,Slender tuna
+2003,24,SLT,Thunnus spp,Slender tuna
+2004,41,SLT,Thunnus spp,Slender tuna
+2005,150,SLT,Thunnus spp,Slender tuna
+2006,34,SLT,Thunnus spp,Slender tuna
+2007,16,SLT,Thunnus spp,Slender tuna
+2008,17,SLT,Thunnus spp,Slender tuna
+2009,53,SLT,Thunnus spp,Slender tuna
+2010,44,SLT,Thunnus spp,Slender tuna
+2011,165,SLT,Thunnus spp,Slender tuna
+2012,78,SLT,Thunnus spp,Slender tuna
+2013,272,SLT,Thunnus spp,Slender tuna
+2014,1014,SLT,Thunnus spp,Slender tuna
+2015,349,SLT,Thunnus spp,Slender tuna
+2016,178,SLT,Thunnus spp,Slender tuna
+2017,234,SLT,Thunnus spp,Slender tuna
+2018,622,SLT,Thunnus spp,Slender tuna
+1950,1501,TUX,Allothunnus fallai,Tuna-like fishes nei
+1951,18102,TUX,Allothunnus fallai,Tuna-like fishes nei
+1952,21162,TUX,Allothunnus fallai,Tuna-like fishes nei
+1953,21198,TUX,Allothunnus fallai,Tuna-like fishes nei
+1954,21964,TUX,Allothunnus fallai,Tuna-like fishes nei
+1955,22781,TUX,Allothunnus fallai,Tuna-like fishes nei
+1956,22604,TUX,Allothunnus fallai,Tuna-like fishes nei
+1957,21577,TUX,Allothunnus fallai,Tuna-like fishes nei
+1958,25730,TUX,Allothunnus fallai,Tuna-like fishes nei
+1959,22756,TUX,Allothunnus fallai,Tuna-like fishes nei
+1960,21023,TUX,Allothunnus fallai,Tuna-like fishes nei
+1961,38010,TUX,Allothunnus fallai,Tuna-like fishes nei
+1962,45782,TUX,Allothunnus fallai,Tuna-like fishes nei
+1963,44126,TUX,Allothunnus fallai,Tuna-like fishes nei
+1964,62403,TUX,Allothunnus fallai,Tuna-like fishes nei
+1965,61982,TUX,Allothunnus fallai,Tuna-like fishes nei
+1966,69484,TUX,Allothunnus fallai,Tuna-like fishes nei
+1967,76470,TUX,Allothunnus fallai,Tuna-like fishes nei
+1968,82236,TUX,Allothunnus fallai,Tuna-like fishes nei
+1969,87321,TUX,Allothunnus fallai,Tuna-like fishes nei
+1970,48843,TUX,Allothunnus fallai,Tuna-like fishes nei
+1971,64442,TUX,Allothunnus fallai,Tuna-like fishes nei
+1972,78656,TUX,Allothunnus fallai,Tuna-like fishes nei
+1973,92704,TUX,Allothunnus fallai,Tuna-like fishes nei
+1974,80175,TUX,Allothunnus fallai,Tuna-like fishes nei
+1975,68689,TUX,Allothunnus fallai,Tuna-like fishes nei
+1976,78805,TUX,Allothunnus fallai,Tuna-like fishes nei
+1977,67823,TUX,Allothunnus fallai,Tuna-like fishes nei
+1978,107105,TUX,Allothunnus fallai,Tuna-like fishes nei
+1979,89153,TUX,Allothunnus fallai,Tuna-like fishes nei
+1980,94342,TUX,Allothunnus fallai,Tuna-like fishes nei
+1981,104957,TUX,Allothunnus fallai,Tuna-like fishes nei
+1982,110959,TUX,Allothunnus fallai,Tuna-like fishes nei
+1983,112578,TUX,Allothunnus fallai,Tuna-like fishes nei
+1984,114885,TUX,Allothunnus fallai,Tuna-like fishes nei
+1985,132057,TUX,Allothunnus fallai,Tuna-like fishes nei
+1986,134050,TUX,Allothunnus fallai,Tuna-like fishes nei
+1987,131248,TUX,Allothunnus fallai,Tuna-like fishes nei
+1988,126031,TUX,Allothunnus fallai,Tuna-like fishes nei
+1989,138556,TUX,Allothunnus fallai,Tuna-like fishes nei
+1990,158664,TUX,Allothunnus fallai,Tuna-like fishes nei
+1991,161959,TUX,Allothunnus fallai,Tuna-like fishes nei
+1992,178641,TUX,Allothunnus fallai,Tuna-like fishes nei
+1993,178131,TUX,Allothunnus fallai,Tuna-like fishes nei
+1994,155374,TUX,Allothunnus fallai,Tuna-like fishes nei
+1995,225504,TUX,Allothunnus fallai,Tuna-like fishes nei
+1996,104225,TUX,Allothunnus fallai,Tuna-like fishes nei
+1997,183266,TUX,Allothunnus fallai,Tuna-like fishes nei
+1998,205002,TUX,Allothunnus fallai,Tuna-like fishes nei
+1999,218868,TUX,Allothunnus fallai,Tuna-like fishes nei
+2000,107658,TUX,Allothunnus fallai,Tuna-like fishes nei
+2001,92596,TUX,Allothunnus fallai,Tuna-like fishes nei
+2002,53105,TUX,Allothunnus fallai,Tuna-like fishes nei
+2003,126265,TUX,Allothunnus fallai,Tuna-like fishes nei
+2004,111878,TUX,Allothunnus fallai,Tuna-like fishes nei
+2005,98606,TUX,Allothunnus fallai,Tuna-like fishes nei
+2006,75963,TUX,Allothunnus fallai,Tuna-like fishes nei
+2007,91398,TUX,Allothunnus fallai,Tuna-like fishes nei
+2008,125370,TUX,Allothunnus fallai,Tuna-like fishes nei
+2009,148512,TUX,Allothunnus fallai,Tuna-like fishes nei
+2010,178079,TUX,Allothunnus fallai,Tuna-like fishes nei
+2011,417649,TUX,Allothunnus fallai,Tuna-like fishes nei
+2012,447896,TUX,Allothunnus fallai,Tuna-like fishes nei
+2013,498563,TUX,Allothunnus fallai,Tuna-like fishes nei
+2014,389246,TUX,Allothunnus fallai,Tuna-like fishes nei
+2015,391321,TUX,Allothunnus fallai,Tuna-like fishes nei
+2016,429233,TUX,Allothunnus fallai,Tuna-like fishes nei
+2017,431493.46,TUX,Allothunnus fallai,Tuna-like fishes nei
+2018,333704.07,TUX,Allothunnus fallai,Tuna-like fishes nei

@@ -1,0 +1,520 @@
+---
+title: "Marine Sector in Tanzania"
+subtitle: 'Spatial is Special'
+author: 
+  - Stephen Holness
+  - Masumbuko Semba
+institute: 
+  - Nelson Mandela University, South Africa
+  - Nelson Mandela African Institution of Science and Technology, Tanzania
+date: '2025-07-15'
+format:
+  revealjs: 
+    quiz: 
+      checkKey: 'a'
+      #resetKey: 'q'
+      #shuffleKey: 't'
+      allowNumberKeys: true
+      disableOnCheck: false
+      disableReset: false
+      shuffleOptions: true
+      includeScore: false
+    scss: styles.scss
+    theme: sky
+    slide-number: true
+    # background-image: "images/bg_ngalawa_web.png"
+    # background-size: cover
+    # background-position: left
+    # chalkboard: 
+    #   buttons: false
+    preview-links: auto
+    logo: "logo/the-nature-conservancy.png" # Example logo
+    css: styles.css
+    footer: "Stakeholder Engagement Workshop | MOROGOGORO | July 15-17, 2025"
+    title-slide-attributes:
+      data-background-image: "assets/DJI_20241107210130_0006_D.jpg"
+      data-background-size: cover
+      data-background-color: "rgba(0, 0, 0, 1.0)"
+    confetti:
+      particleCount: 350
+      angle: 90
+      spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
+revealjs-plugins:
+  - confetti
+  - pointer
+  # - spotlight
+  - quiz
+
+embed-resources: true
+theme: serif
+highlight-style: ayu-mirage
+code-line-numbers: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
+```{r}
+require(tidyverse)
+require(gt)
+require(tidyplots)
+require(plotthis)
+```
+
+
+# Introduction
+
+## What is the primary goal of Marine Spatial Planning (MSP)?{.quiz-question}
+
+- To increase offshore oil and gas drilling without restrictions
+- [To balance ecological, economic, and social objectives in marine areas]{.correct}
+- To restrict all fishing activities in Tanzanian waters
+
+## Which of the following is a key stakeholder in MSP in Tanzania?{.quiz-question}
+
+- Only the Tanzanian government
+- [Government agencies, local fishing communities, and conservation groups]{.correct}
+- Foreign shipping companies only
+
+## What is a major challenge in implementing MSP in Tanzania?{.quiz-question}
+
+- [Conflicting interests between sectors]{.correct}
+- Lack of ocean resources to manage
+- Too few government regulations
+
+## MSP SCOPING
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/scoping1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/scoping2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(3deg);"}
+:::
+:::
+
+
+<!-- ## MSP SCOPING
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Completed in June 2023,It provides key insights and recommendations to guide the nation towards a comprehensive, science-based, and inclusive MSP. 
+:::
+::: {.column width="60%"}
+
+{{< pdf msp_scoping.pdf width=600 height=600 >}}
+:::
+:::: -->
+
+
+## MSP GUIDELINE
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/msp_guideline1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/msp_guideline2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## ECOLOGICAL AND HUMAN USE
+
+<!-- :::: {.columns}
+::: {.column width="40%"}
+
+Presents data-gap issues and potential solutions to address them during the MSP process in Tanzania
+
+:::
+::: {.column width="60%"}
+
+{{< pdf roadmap_indexed.pdf width=600 height=600 >}}
+:::
+:::: -->
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/human_use_ecological1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/human_use_ecological2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## STAKEHOLDER COMMUNICATION
+
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/msp_comm1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/msp_comm2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+
+## STAKEHOLDER ENGAGEMENT
+
+<!-- :::: {.columns}
+::: {.column width="40%"}
+government’s formal commitment to placing stakeholders at the very
+heart ofthe MSP process.  
+
+
+:::
+::: {.column width="60%"}
+
+{{< pdf sesDraft.pdf width=600 height=600 >}}
+:::
+:::: -->
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/stakeholder1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/stakeholder2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+
+# TOOLS
+
+## WIO-Symphony
+
+::: {.columns}
+::: {.column width="30%"}
+
++ It supports ecosystem-based Marine Spatial Planning by calculating cumulative impact over large areas and illustrating those that are under specific pressures
+
+:::
+
+::: {.column width="70%"}
+![](graphics_plots/wio_symphony.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+```{r}
+
+```
+
+## Shipping Density
+
+<iframe src="https://www.arcgis.com/apps/mapviewer/index.html?webmap=7838f608a0214d968a118f85d48efd93" title="Shipping Lanes Density"></iframe>
+
+## Shipping Density2
+::: {.column-screen}
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik" style="width:100%; height:100%;">
+</iframe>
+:::
+
+## Testing
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
++ Testing the test
+
+:::
+
+::: {.column width="70%"}
+
+<iframe src="https://www.google.com/maps/@-6.8348992,39.2901171,1104m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D" width="800" height="600"></iframe>
+
+:::
+
+::::
+
+## Slide with YouTube
+
+::: {.r-stretch}
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+:::
+
+## Main Marine Sectors
+
++ A brief overview of the key sectors operating in Tanzania's marine space.
+
+*   **Fisheries** (Artisanal, Commercial, Recreational)
+*   **Aquaculture** (e.g., Seaweed Farming, Mariculture)
+*   **Marine & Coastal Tourism**
+*   **Maritime Transport & Ports**
+*   **Energy** (Oil & Gas Exploration)
+*   **Conservation** (Marine Protected Areas, Critical Habitats)
+*   **Submarine Cables**
+
+## Oil and Gas {.scrollable}
+
+
+
+::: {.columns}
+::: {.column width="30%"}
+
+Major offshore natural gas discoveries, with proven reserves exceeding 47 trillion cubic feet (TCF) 
+
+:::
+
+::: {.column width="70%"}
+
+```{r}
+
+offshore_gas_discoveries <- tibble(
+  Block = c(rep("Block 1", 9), rep("Block 2", 9), "Block 3", rep("Block 4", 4), "TOTAL"),
+  Well = c(
+    "Chaza-1", "Jodari-1", "Jodari North-1", "Jodari South-1", "Mzia-1", "Mzia-2", "Mzia-3", "Mkizi-1", "Taachui-1",
+    "Zafarani-1", "Zafarani-2", "Lavani-1", "Lavani-2", "Tangawizi-1", "Mronge-1", "Piri-1", "Giligiliani-1", "Mdalasini-1",
+    "Papa-1",
+    "Chewa-1", "Pweza-1", "Ngisi-1", "Kamba-1",
+    NA
+  ),
+  Year = c(
+    2011, 2012, 2012, 2012, 2012, 2013, 2013, 2013, 2014,
+    2012, 2012, 2012, 2012, 2013, 2013, 2014, 2014, 2015,
+    2012,
+    2010, 2010, 2013, 2014,
+    NA
+  ),
+  Operator = c(
+    rep("BG Tz", 9), rep("Statoil", 9), "BG Tz", rep("BG Tz", 4),
+    NA
+  ),
+  Status = c(
+    rep("Undeveloped", 9),
+    rep("Undeveloped", 9),
+    "Undeveloped",
+    rep("Undeveloped", 4),
+    NA
+  ),
+  Resources_TCF = c(
+    0.47, 3.53, NA, NA, 8.5, NA, NA, 0.6, 1.10,
+    6.0, NA, 3.6, 1.4, 5.4, 2.5, 3.0, 1.7, 1.8,
+    2.0,
+    1.8, 1.9, 0.8, 1.03,
+    47.13
+  )
+)
+
+offshore_gas_discoveries |> 
+  gt() |> 
+  tab_options(latex.use_longtable = TRUE, data_row.padding = px(5), table.font.size = '10pt') |> 
+  fmt_missing(columns = everything(), missing_text = "-") |> 
+  cols_label(
+    Resources_TCF ~ md('Resources (TCF)')
+  ) |> 
+  tab_spanner(columns = Block:Year, label = "Gas Discovery")
+
+```
+
+:::
+:::
+
+
+
+## Fisheries & Aquaculture
+
+:::: {.columns}
+::: {.column width="50%"}
+Current and potential zones for fishing grounds.
+
+![](assets/tuna.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+:::
+::: {.column width="50%"}
+
+Potential zones for seaweed and fish farming.
+
+![](assets/AF_Zanzibar_Seaweed_211004_1156_JPG.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+::::
+
+
+
+
+
+
+
+## Industry & Conservation
+
+*   Major shipping lanes and port activity (Dar es Salaam, Tanga, Mtwara).
+*   Current oil and gas exploration blocks.
+*   Existing Marine Protected Areas (MPAs) and other conservation zones.
+*   Location of submarine cables.
+
+
+
+# State of Spatial Data
+
+## Our State of Spatial Data
+
+*   **What Data Do We Have?** (e.g., Vessel tracking, habitat maps, administrative boundaries).
+*   **Data Gaps & Limitations:** What are the key uncertainties? Where do we need more information from you?
+*   **Our Integration Process:** How we are bringing this diverse information together for analysis.
+
+
+
+
+
+## Example Data: Shipping Density
+
+*   We can use data from the Automatic Identification System (AIS) to map the intensity of vessel traffic.
+*   This helps identify major shipping lanes and areas of high congestion.
+*   Understanding these patterns is crucial for deconflicting with other uses like fishing or conservation.
+
+`[Placeholder for map of shipping traffic]`
+
+## Example Data: Sensitive Habitats
+
+*   Mapping the location of critical ecosystems like coral reefs, mangroves, and seagrass beds.
+*   This data is fundamental for conservation planning and identifying areas that need protection.
+*   Sources include satellite imagery, scientific surveys, and local ecological knowledge.
+
+`[Placeholder for map of key habitats]`
+
+## Integrating Data Layers
+
+The power of MSP comes from overlaying different data layers to see the full picture. For example, we can overlay shipping lanes on top of sensitive habitats to identify potential risks (e.g., anchor damage, spills).
+
+`[Placeholder for map showing shipping lanes over sensitive habitats]`
+
+## Known Sea Use Conflicts & Synergies
+
+*   Where do different sectors overlap and create potential conflict? (e.g., shipping lanes vs. fishing grounds).
+*   Where are there opportunities for co-existence and synergy? (e.g., tourism and conservation).
+
+`[Placeholder for a "conflict hotspot" map showing overlapping sector footprints]`
+
+## Case Study: [e.g., Pemba Channel]
+
+*   A deeper look at a specific, well-known area of interaction.
+*   **Example:** Conflicts and synergies between artisanal fishing, marine conservation, and tourism.
+*   What are the issues from each perspective?
+*   How can spatial planning help mediate these interactions?
+
+## What is Marine Spatial Planning (MSP)?
+
+A public process of analyzing and allocating the spatial and temporal distribution of human activities in marine areas to achieve ecological, economic, and social objectives.
+
+**It is:**
+
+*   **Forward-looking:** Planning for the future.
+*   **Integrated:** Across sectors and agencies.
+*   **Place-based:** Focused on a specific marine area.
+*   **Participatory:** Involving all stakeholders.
+
+## Goals of MSP for Tanzania
+
+*   **Reduce conflicts** among marine users (e.g., fishing vs. shipping).
+*   **Conserve** important marine ecosystems and biodiversity.
+*   **Promote sustainable economic development** (the "Blue Economy").
+*   Provide **clarity and predictability** for new investments.
+*   **Adapt** to climate change impacts.
+
+## The MSP Process
+
+MSP is a continuous, adaptive cycle. Your input is critical at every stage.
+
+`[Placeholder for a diagram of the MSP cycle: Scoping -> Data Collection & Analysis -> Plan Development -> Implementation -> Monitoring & Evaluation -> Adaptation]`
+
+## The Way Forward: Your Role
+
+*   This analysis is a starting point, not a final answer.
+*   The goal of this workshop is **collaborative planning**.
+*   **Key Questions for Our Discussion:**
+    1.  Does this data reflect your reality on the water?
+    2.  What key conflicts or issues are we missing?
+    3.  What are the most important opportunities for collaboration?
+
+## Discussion
+
+**Questions?**
+
+## Contacts
+
+:::: {.columns}
+::: {.column width="50%"}
+
+**Stephen Holness** 
+
+```{r}
+#| eval: false
+#| 
+qh = qrcode::qr_vcard(
+    given = " Stephen", 
+    family = 'Holness', 
+    email = 'stephen.holness@gmail.com', 
+    telephone = '+27 82 887-3735', 
+    prefix = 'Dr', 
+    ecl = 'L'
+    ) 
+    
+    # |> 
+    # plot()
+
+qrcode::generate_svg(qrcode = qh, filename = 'stephen_qr.svg', size = 350)
+
+
+```
+
+![](stephen_qr.svg)
+
+:::
+::: {.column width="50%"}
+**Masumbuko Semba** 
+
+```{r}
+#| eval: false
+#| 
+
+qs = qrcode::qr_vcard(
+    given = "Masumbuko", 
+    family = 'Semba', 
+    email = 'lugosemba@gmail.com', 
+    telephone = '+255 717 603 703', 
+    prefix = 'Dr', 
+    ecl = 'L'
+    ) 
+    
+    # |> 
+    # plot() 
+
+    qrcode::generate_svg(qrcode = qs, filename = 'semba_qr.svg', size = 350)
+```
+
+![](semba_qr.svg)
+
+:::
+::::
+
+
+## Thank You

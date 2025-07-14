@@ -1,0 +1,643 @@
+---
+title: "The Marine Spatial Planning of Tanzania"
+subtitle: 'WHERE ARE WE?'
+author: 
+  - Stephen Holness
+  - Masumbuko Semba
+institute: 
+  - Nelson Mandela University, South Africa
+  - Nelson Mandela African Institution of Science and Technology, Tanzania
+date: '2025-07-15'
+format:
+  revealjs: 
+    transition: slide
+    transition-speed: slow
+    quiz: 
+      checkKey: 'a'
+      #resetKey: 'q'
+      #shuffleKey: 't'
+      allowNumberKeys: true
+      disableOnCheck: false
+      disableReset: false
+      shuffleOptions: true
+      includeScore: false
+    scss: styles.scss
+    theme: sky
+    slide-number: true
+    # background-image: "images/bg_ngalawa_web.png"
+    # background-size: cover
+    # background-position: left
+    # chalkboard: 
+    #   buttons: false
+    preview-links: auto
+    logo: "logo/the-nature-conservancy.png" # Example logo
+    css: styles.css
+    footer: "Stakeholder Engagement Workshop | MOROGOGORO | July 15-17, 2025"
+    title-slide-attributes:
+      data-background-image: "assets/DJI_20241107210130_0006_D.jpg"
+      data-background-size: cover
+      data-background-color: "rgba(0, 0, 0, 1.0)"
+    confetti:
+      particleCount: 350
+      angle: 90
+      spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
+revealjs-plugins:
+  - confetti
+  - pointer
+  # - spotlight
+  - quiz
+
+embed-resources: true
+theme: serif
+highlight-style: ayu-mirage
+code-line-numbers: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+require(tidyverse)
+require(gt)
+require(tidyplots)
+require(plotthis)
+require(highcharter)
+
+```
+
+
+## {{< bi alarm-fill color=red >}} **Agenda** {.scrollable .center background-image="assets/web_sun_set.jpg" background-size="cover" background-opacity="0.6"} 
+
+::: incremental
+
+1. {{< bi save color=red >}}  **Introduction**
+2. {{< bi save color=yellow >}}   **Preparedness**
+3. {{< bi save color=blue >}}   **MSP Sectors**
+4. {{< bi save color=green >}}   **Data Foundation**
+5.  {{< bi save color=orange >}}  **The Way Forward**
+6.  {{< bi save color=purple >}}  **Discussions**
+
+:::
+
+
+## What is Marine Spatial Planning?{.scrollable transition="slide"}
+A public process for organizing the use of our oceans. Think of it as **urban planning for the sea**
+
+::: columns
+::: {.column width='70%'}
+::: incremental
+* **Analyzing** the current and future uses of marine space. 
+* **Allocating** areas for specific activities (e.g., fishing, conservation, energy). 
+* **Balancing** ecological, economic, and social objectives.
+:::
+:::
+
+::: {.column width='30%'}
+![](assets/web_ngalawa.jpg)
+:::
+:::
+
+## {background-image="assets/web_dar_container_cool.jpg" background-size="cover" background-opacity="1.0"}
+
+## What is the primary goal of MSP? {.quiz-question} 
+
+-   To increase offshore oil and gas drilling without restrictions
+-   [To balance ecological, economic, and social objectives in marine areas]{.correct}
+-   To restrict all fishing activities in Tanzanian waters
+
+## Goals of MSP {background-image="assets/web_seaweed_farm_intertidal.jpg" background-size="cover" background-opacity=".4"}
+
+The core objectives of Marine Spatial Planning are to:
+
+::: columns
+::: {.column width='70%'}
+::: incremental
+-   <i class="bi bi-diagram-3"></i> **Reduce conflicts** among users (e.g., fishing vs. shipping).
+-   {{< bi shield-check >}} **Conserve** vital ecosystems and biodiversity.
+-   {{< bi graph-up-arrow >}} **Promote** sustainable economic development (the "Blue Economy").
+-   {{< bi lightbulb >}} **Provide clarity** and predictability for new investments.
+-   {{< bi shield-plus >}} **Build resilience** and adapt to climate change.
+:::
+:::
+
+::: {.column width='30%'}
+
+![](assets/web_conservation_ngalawa.jpg)
+:::
+:::
+
+# Tanzania's Preparedness for MSP 
+
+We are building on a strong foundation of existing work. Key documents and processes are already in place to guide our efforts.
+
+## MSP SCOPING
+::: {.columns}
+::: {.column width="50%"}
+![](graphics_plots/scoping1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+::: {.column width="50%"}
+![](graphics_plots/scoping2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(3deg);"}
+:::
+:::
+
+## MSP GUIDELINE
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/msp_guideline1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/msp_guideline2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## ECOLOGICAL AND HUMAN USE
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/human_use_ecological1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/human_use_ecological2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## STAKEHOLDER COMMUNICATION
+
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/msp_comm1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/msp_comm2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## STAKEHOLDER ENGAGEMENT
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/stakeholder1.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/stakeholder2.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+# Marine Sectors
+
+Key sectors operating in Tanzania's marine space.
+
+## Main Marine Sectors
+
+Key sectors operating in Tanzania's marine space.
+
+::: columns
+::: {.column width='70%'}
+::: incremental
+-   {{< bi water color=lightseagreen >}} **Fisheries & Aquaculture**
+-   {{< bi sun color=red >}} **Marine & Coastal Tourism**
+-   {{< bi balloon color=orange >}} **Maritime Transport & Ports**
+-   {{< bi lightning-charge color=blue >}} **Energy** (Oil & Gas)
+-   {{< bi shield-check color=green >}} **Conservation** (Habitats, MPAs)
+-   {{< bi hdd-network color=orange >}} **Submarine Cables**
+
+:::
+:::
+
+::: {.column width='30%'}
+![](assets/web_ngalawa.jpg)
+:::
+:::
+
+
+##  {{< bi water color=lightseagreen size=80px >}} **Fisheries & Mariculture**
+
+::: columns
+::: {.column width="50%"}
+Current and potential zones for fishing grounds.
+
+![](assets/web_fishing_vessels.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+::: {.column width="50%"}
+Potential zones for Mariculture.
+
+![](assets/web_seaweed_farm_intertidal.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+:::
+
+
+## Why are Fisheries & Mariculture
+
+**The Economic & Social Backbone of Coastal Tanzania**
+
+::: incremental
+-   **Livelihoods:** employ thousands and supporting the livelihoods of millions.
+-   **Food Security:** source of food and protein
+-   **Economic Engine:** contributor to the national GDP 
+-   **Women's Empowerment:** Seaweed farming, a vital economic activity for women
+:::
+
+## MSP in Fisheries sector
+
+**Balancing Conflicts & Seizing Opportunities**
+
+::: incremental
+-   **Managing User Conflicts:** helps resolve spatial competition between fisheries and other sectors
+-   **Sustaining Resources:** ensures the long-term viability of fish stocks.
+-   **Promoting Sustainable Growth:** identify suitable, low-conflict zones for aquaculture.
+-   **Balancing Needs:** accommodate the different needs of small-scale artisanal fishers and larger commercial operations.
+:::
+
+
+
+
+##  {{< bi sun color=red size=80px >}} **Marine & Coastal Tourism**
+
+::: columns
+::: {.column width="50%"}
+Iconic destinations like Zanzibar and Mafia Island are global attractions.
+
+![](assets/web_tourism_forodhani.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+::: {.column width="50%"}
+Activities range from diving and snorkeling to cultural heritage tours.
+
+![](assets/web_tourism_beach_ngalawa.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+:::
+
+## Tourism: A Pillar of the Blue Economy 
+
+**Driving Growth and Showcasing Natural Heritage**
+
+::: incremental
+-   **Economic Powerhouse:** A primary source of foreign exchange and GDP.
+-   **Job Creation:** Supports formal and informal employment
+-   **Global Showcase:** Highlights Tanzania's world-class natural assets
+-   **Investment Magnet:** Attracts significant local and international investment in coastal infrastructure.
+:::
+
+## Tourism in the MSP
+
+**Ensuring Sustainability and Minimizing Conflict**
+
+::: incremental
+-   **Protecting the Attraction:** essential to protect the very assets tourism depends.
+-   **Reducing Sectoral Conflicts:** Helps manage competition for space between tourism activities
+-   **Guiding Development:** Provides a framework for siting tourism infrastructure
+-   **Enhancing Visitor Experience:** By zoning activities, MSP can ensure high-quality, safe, and sustainable tourism experiences.
+:::
+
+##   {{< bi balloon color=orange size=80px >}} **Maritime Transport & Ports**
+
+
+::: columns
+::: {.column width="50%"}
+Major ports like Dar es Salaam, Tanga, and Mtwara are vital economic lifelines.
+
+![](assets/web_dar_port.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+::: {.column width="50%"}
+Key shipping routes connect Tanzania to regional and global markets.
+
+![](assets/web_dar_container_cool.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+:::
+
+## A Gateway to Global Trade 
+
+**Connecting Tanzania to the World**
+
+::: incremental
+-   **Economic Lifeline:** over 90% of Tanzania's international trade.
+-   **Strategic Hub:** gateways for landlocked neighboring countries
+-   **Infrastructure Development:** Drives major investment in port modernization, logistics, and related infrastructure.
+-   **Employment:** source of direct and indirect jobs
+:::
+
+## Transport in the MSP
+
+**Navigating Crowded Waters Safely and Efficiently**
+
+::: incremental
+-   **Deconflicting Sea-lanes:** helps establish clear shipping lanes to minimize collisions and reduce conflict
+-   **Sustainable Port Expansion:** Guides the strategic development of ports to avoid damaging sensitive habitats
+-   **Managing Pollution Risk:** Helps identify high-risk areas
+-   **Improving Efficiency:** Creates predictability for the shipping industry, encouraging investment and improving logistical efficiency.
+:::
+
+
+##  {{< bi lightning-charge color=blue size=80px >}} **Energy** (Oil & Gas) {.scrollable}
+
+
+Major offshore natural gas discoveries, with proven reserves exceeding 47 trillion cubic feet (TCF) 
+
+
+```{r}
+
+offshore_gas_discoveries <- tibble(
+  Block = c(rep("Block 1", 9), rep("Block 2", 9), "Block 3", rep("Block 4", 4), "TOTAL"),
+  Well = c(
+    "Chaza-1", "Jodari-1", "Jodari North-1", "Jodari South-1", "Mzia-1", "Mzia-2", "Mzia-3", "Mkizi-1", "Taachui-1",
+    "Zafarani-1", "Zafarani-2", "Lavani-1", "Lavani-2", "Tangawizi-1", "Mronge-1", "Piri-1", "Giligiliani-1", "Mdalasini-1",
+    "Papa-1",
+    "Chewa-1", "Pweza-1", "Ngisi-1", "Kamba-1",
+    NA
+  ),
+  Year = c(
+    2011, 2012, 2012, 2012, 2012, 2013, 2013, 2013, 2014,
+    2012, 2012, 2012, 2012, 2013, 2013, 2014, 2014, 2015,
+    2012,
+    2010, 2010, 2013, 2014,
+    NA
+  ),
+  Operator = c(
+    rep("BG Tz", 9), rep("Statoil", 9), "BG Tz", rep("BG Tz", 4),
+    NA
+  ),
+  Status = c(
+    rep("Undeveloped", 9),
+    rep("Undeveloped", 9),
+    "Undeveloped",
+    rep("Undeveloped", 4),
+    NA
+  ),
+  Resources_TCF = c(
+    0.47, 3.53, NA, NA, 8.5, NA, NA, 0.6, 1.10,
+    6.0, NA, 3.6, 1.4, 5.4, 2.5, 3.0, 1.7, 1.8,
+    2.0,
+    1.8, 1.9, 0.8, 1.03,
+    47.13
+  )
+)
+
+offshore_gas_discoveries |> 
+  gt() |> 
+  tab_options(data_row.padding = px(5), table.font.size = '18pt') |> 
+  fmt_missing(columns = everything(), missing_text = "-") |> 
+  cols_label(
+    Resources_TCF ~ md('Resources (TCF)')
+  ) |> 
+  tab_spanner(columns = Block:Year, label = "Gas Discovery")|> 
+  opt_interactive(
+    use_search = TRUE,
+    # use_filters = TRUE,
+    use_resizers = TRUE,
+    use_highlight = TRUE,
+    use_compact_mode = TRUE,
+    use_text_wrapping = TRUE,
+    use_page_size_select = F
+  )
+
+```
+
+## Energy: Powering National Development 
+
+**Harnessing Offshore Resources for Growth**
+
+::: incremental
+-   **Significant Economic Potential:** Offshore gas reserves a massive potential revenue stream
+-   **Energy Security:** can reduce reliance on imported fuels and provide power for national industrialization.
+-   **Foreign Direct Investment:** attracts billions of dollars
+-   **Catalyst for Growth:** Can spur development in related sectors
+:::
+
+## Energy in the MSP Context {.scrollable}
+
+**Balancing Development with Environmental Stewardship**
+
+::: incremental
+-   **High Potential for Conflict:** Exploration conflict with fishing grounds, shipping lanes, and sensitive ecosystems.
+-   **Managing Environmental Risk:** identifying and mitigating risks-- drilling, potential spills.
+-   **Providing Investment Certainty:** streamlining approvals and reducing investment risk.
+-   **Strategic Siting:** helps identify areas for exploration that minimize conflict
+:::
+
+
+##  {{< bi shield-check color=green size=80px >}} **Conservation** (Habitats, MPAs)
+
+
+
+::: columns
+::: {.column width="50%"}
+Mangrove forests provide vital ecosystem services and coastal protection.
+
+![](assets/web_conservation_ngalawa.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+::: {.column width="50%"}
+
+Protecting critical habitats like coral reefs is fundamental.
+
+![](assets/web_conservations.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+:::
+
+## The key for Blue Economy {.scrollable}
+
+**Protecting Tanzania's Natural Capital**
+
+::: incremental
+-   **Biodiversity Hotspot:** host significant biodiversity--coral reefs, mangroves, and seagrass beds.
+-   **Ecosystem Services:** These habitats provide essential services.
+-   **Supporting Other Sectors:** the bedrock for sustainable fisheries and tourism.
+-   **Cultural Heritage:** Marine areas hold deep cultural and spiritual value for coastal communities.
+:::
+
+## Conservation in the MSP Context {.scrollable}
+
+**A Strategic Approach to Protection**
+
+::: incremental
+-   **Identifying Priorities:** identify and map critical habitats and areas of ecological significance.
+-   **Strengthening Protection:** It provides a framework for effective management of ecologically connected network MPAs.
+-   **Building Climate Resilience:** Protecting key habitats enhances the resilience of the coast to climate change impacts.
+:::
+
+
+##  {{< bi hdd-network color=orange size=80px >}} **Submarine Cables**
+
+::: columns
+::: {.column width="50%"}
+Backbone of global communication.
+
+![](assets/web_submarine_cables.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+::: {.column width="50%"}
+connect Tanzania to the global internet
+
+![](assets/web_electrical_machine.jpg){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+:::
+:::
+
+# Data
+
+## Our State of Spatial Data
+
+::: incremental
+-   **What Data Do We Have?** (e.g., Vessel tracking, habitat maps, administrative boundaries).
+-   **Data Gaps & Limitations:** What are the key uncertainties? Where do we need more information from you?
+-   **Our Integration Process:** How we are bringing this diverse information together for analysis.
+:::
+
+## Our State of Spatial Data {.scrollable}
+
+
+```{r}
+
+# Read data and ensure value columns are ordered factors for consistent coloring
+ranked_layers <- readxl::read_excel('data_related/data_inventory_modified_donna.xlsx', sheet = 2) |>
+  mutate(across(
+    c("Economic value", "Urgency", "Ecological Risk"), 
+    ~factor(., levels = c("High", "Moderate", "Low"))
+  ))
+
+# Create the styled, interactive table
+ranked_layers |>
+  # Group by the 'Theme' column for better organization
+  gt(groupname_col = "Theme") |>
+  # Add a spanner to group the value columns
+  tab_spanner(
+    label = "Perceived Importance",
+    columns = 4:5
+  ) |>
+  # Clean up column labels
+  # cols_label(
+  #   Layer = "Data Layer",
+  #   Dataset = "Dataset Name",
+  #   `Economic value` = "Economic",
+  #   # `Social value` = "Social",
+  #   `Ecological value` = "Ecological"
+  # ) |>
+  # Apply cell coloring based on value
+  data_color(
+    columns = 4:6,
+    fn = scales::col_factor(
+      palette = c("#e6232a", "#e69923", "#005c17"), # High, Moderate, Low
+      domain = c("High", "Moderate", "Low")
+    )
+  ) |>
+  # Add a source note to explain the data
+  tab_source_note(
+    source_note = "Assessment based on expert opinion and preliminary analysis."
+  ) |>
+  # Apply consistent styling
+  tab_options(
+    table.font.size = '14pt',
+    data_row.padding = px(5),
+    row_group.background.color = "#F9F9F9",
+    row_group.font.weight = "bold"
+  ) |> opt_interactive(
+    use_search = FALSE,
+    use_resizers = TRUE,
+    use_filters = TRUE, # Filters are very useful for this type of data
+    use_highlight = TRUE,
+    use_compact_mode = TRUE
+  )
+```
+
+
+# Way forward {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
+
+The success of Marine Spatial Planning in Tanzania depends on **your expertise and collaboration**.
+
+## **The Way Forward: Your Role** {background-image="assets/web_tourism_beach_ngalawa.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
+
+Our goal is to work together. Let's focus our discussion on these key questions:
+
+::: incremental
+1.  **Data Review:** What are the strengths and weaknesses of our current spatial data? What's missing?
+2.  **Issue Identification:** What are the most critical conflicts or challenges we haven't captured?
+3.  **Opportunities:** Where are the biggest opportunities for win-win solutions and collaboration?
+:::
+
+
+## {{< bi people-fill color=white size=12.1rem  >}} Asante Sana! {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.6" transition="slide" .center}
+
+
+## SCAN to Reach US!
+
+::::: columns
+::: {.column width="50%"}
+**Stephen Holness**
+
+```{r}
+#| eval: false
+#| 
+qh = qrcode::qr_vcard(
+    given = " Stephen", 
+    family = 'Holness', 
+    email = 'stephen.holness@gmail.com', 
+    telephone = '+27 82 887-3735', 
+    prefix = 'Dr', 
+    ecl = 'L'
+    ) 
+    
+    # |> 
+    # plot()
+
+qrcode::generate_svg(qrcode = qh, filename = 'stephen_qr.svg', size = 350)
+
+
+```
+
+![](stephen_qr.svg)
+:::
+
+::: {.column width="50%"}
+**Masumbuko Semba**
+
+```{r}
+#| eval: false
+#| 
+
+qs = qrcode::qr_vcard(
+    given = "Masumbuko", 
+    family = 'Semba', 
+    email = 'lugosemba@gmail.com', 
+    telephone = '+255 717 603 703', 
+    prefix = 'Dr', 
+    ecl = 'L'
+    ) 
+    
+    # |> 
+    # plot() 
+
+    qrcode::generate_svg(qrcode = qs, filename = 'semba_qr.svg', size = 350)
+```
+
+![](semba_qr.svg)
+:::
+:::::
+
+
+

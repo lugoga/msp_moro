@@ -1,0 +1,308 @@
+---
+title: "Typset, Layout and Graphics"
+subtitle: 'The State of Ocean Acidification in Tanzania and Mozambique'
+author: 
+  # - Rushingisha George 
+  - Masumbuko Semba
+  # - Samson Job
+institute: 
+  # - Tanzania Fisheries Research Institute
+  - Nelson Mandela African Institution of Science and Technology
+  # - School of Aquatic Sciences and Fisheries Technology
+date: '2025-07-04'
+format:
+  revealjs:
+    quiz: 
+      checkKey: 'a'
+      #resetKey: 'q'
+      #shuffleKey: 't'
+      allowNumberKeys: true
+      disableOnCheck: false
+      disableReset: false
+      shuffleOptions: true
+      includeScore: false
+    scss: styles.scss
+    theme: sky
+    slide-number: true
+    footer: "TAFIRI | IUCN | WIOMSA"
+    logo: "logo/WIOMSAlogo.png" # Add TAFIRI logo to this path for it to appear
+    title-slide-attributes:
+      data-background-image: "presentation/generative_graphics/AF_Zanzibar_Seaweed_WEB.jpg"
+      data-background-size: cover
+      data-background-opacity: "0.5"
+      data-background-color: "#003262"
+    confetti:
+      particleCount: 350
+      angle: 90
+      spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
+revealjs-plugins:
+  - confetti
+  - pointer
+  # - attribution
+  - quiz
+
+embed-resources: true
+highlight-style: ayu-mirage
+code-line-numbers: true
+execute:
+  echo: false
+  warning: false
+  message: false
+
+#include-in-header:
+ # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+---
+
+
+
+# OVERVIEW
+
+## OA WIO Report {transition="slide"}
+
+<span class="highlight-text">Somalia</span>, Kenya, Tanzania, Mozambique, South Africa, <span class="highlight-text">Madagascar</span>, <span class="highlight-text">Comoros</span>, Reunion, Mauritius and Seychelles.
+
+::: columns
+::: {.column width='45%'}
+
+<!-- + The WIO region, comprising of 10 countries  -->
+
+![](presentation/generative_graphics/oa_report2022.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-3deg);"}
+
+:::
+
+::: {.column width='55%'}
+
+
+
+![](presentation/generative_graphics/wio_oa_studies.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+:::
+
+:::
+
+<!-- ## What is Ocean Acidification? {transition="slide"}
+
+The ocean absorbs about 30% of the CO₂ released into the atmosphere. As this CO₂ dissolves, it changes the seawater chemistry, making it more acidic.
+
+::: {.columns}
+::: {.column width="60%"}
+![A simple infographic showing CO2 from industry and transport being absorbed by the ocean, leading to a lower pH and impacts on marine life like corals and shellfish.](presentation/generative_graphics/oa_infographic_simple.png){.styled-img}
+:::
+::: {.column width="40%"}
+#### Key Impacts:
+
+::: {.incremental}
+-   Harder for corals and shellfish to build skeletons.
+-   Disrupts fish behavior and physiology.
+-   Threatens entire marine food webs.
+:::
+:::
+:::
+
+## Why It Matters Here: The WIO Context {transition="slide"}
+
+The Western Indian Ocean is not just a location; it's a lifeline. The health of the ocean is directly tied to the economic stability and cultural identity of its coastal nations.
+
+::: {.columns}
+::: {.column width="50%"}
+![A vibrant photo of seaweed farming in Zanzibar, representing local livelihoods.](presentation/generative_graphics/AF_Zanzibar_Seaweed_WEB.jpg){.styled-img}
+:::
+::: {.column width="50%"}
+### At Risk:
+
+*   **Food Security:** Fisheries that feed millions of people.
+*   **Livelihoods:** Tourism jobs dependent on healthy coral reefs.
+*   **Coastal Safety:** Reefs and mangroves that protect communities from storm surges.
+:::
+:::
+
+## A Path Forward: Key Recommendations {transition="slide"}
+
+Tackling ocean acidification requires a united front. Here are targeted actions for key stakeholders:
+
+*   **For Policymakers:** Integrate OA mitigation into national climate policies. Support and enforce marine protected areas.
+*   **For Scientists:** Expand long-term monitoring to track changes. Develop accessible data products to inform decision-making.
+*   **For Communities & Industry:** Adopt sustainable fishing and aquaculture practices. Participate in habitat restoration projects (mangroves, seagrass). -->
+
+# LAYOUT
+
+## cover and TOC pages {transition="slide"}
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/oa_coverpage_front.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(3deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/toc.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-3deg);"}
+:::
+:::
+
+## Graphics & tables.... {transition="slide"}
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](graphics_plots/intro_page.png){.img-fluid .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-8deg);"}
+
+
+:::
+
+::: {.column width="50%"}
+![](graphics_plots/chemistry_tables.png){.img-fluid .rounded-4 .shadow-lg .border .border-1 .border-success .mb-4 style="transform: rotate(-8deg);"}
+:::
+:::
+
+# REPORTING STYLE
+
+## Future Projection {transition="slide"}
+
+::: {.columns}
+::: {.column width="40%"}
+Modeling projections based on IPCC Shared Socioeconomic Pathways (SSPs) indicate a continued decline in seawater pH and aragonite saturation state (Ω~arag~) throughout the 21st century
+
+:::
+
+::: {.column width="60%"}
+![Projected decline in aragonite saturation. The red line indicates the threshold below which coral reefs begin to dissolve.](graphics_plots/designing_plots.png){#fig-projections1}
+:::
+:::
+
+## A Corrosive Future is Projected {transition="slide"}
+
+::: {.columns}
+::: {.column width="40%"}
+Scientific models predict a dangerous trajectory. Under a "business-as-usual" emissions scenario, by **2050** our coastal waters will become **corrosive** to coral skeletons for most of the year.
+
+:::
+
+::: {.column width="60%"}
+![Projected decline in aragonite saturation. The red line indicates the threshold below which coral reefs begin to dissolve.](graphics_plots/designing_plots.png){#fig-projections .img-fluid .rounded-5 .shadow .border .border-2 .border-success .float-end .ms-4 .mb-4 width="70%" style="transform: rotate(-5deg);"}
+:::
+:::
+
+# GRAPHICS {background="#43464B" background-image="presentation/generative_graphics/end2.jpg"}
+
+To ensure the final report looks professional, all visual elements must be prepared correctly for printing.
+
+## Which graphics are appropriate for Report? {.quiz-question}
+
+- Bitmap raster (PNG, JPG, TIFF)
+- Vector graphics (SVG, AI, PDF)
+- [Both]{.correct}
+
+## What is the minimum resolution for print-quality raster images? {.quiz-question}
+
+- 72 DPI
+- 150 DPI
+- [300 DPI]{.correct}
+
+## To ensure accurate color reproduction on paper, which color mode should you use? {.quiz-question}
+
+- RGB
+- [CMYK]{.correct}
+- HSL
+
+## High-Quality Graphics {transition-speed="slow"}
+
+
+**High Resolution:** photos and raster images must be at least 300 Dots Per Inch (DPI).
+
+
+::: {.columns}
+::: {.column width="50%"}
+![High resolution images](graphics_plots/wio_oa_studies.png){#fig-high .img-fluid .rounded-5 .shadow .border .border-2 .border-success .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-5deg);"}
+
+:::
+
+::: {.column width="50%"}
+![Low resolution images](graphics_plots/wio_oa_studies_poor.png){#fig-low .img-fluid .rounded-5 .shadow .border .border-2 .border-success .float-end .ms-4 .mb-4 width="100%" style="transform: rotate(-5deg);"}
+:::
+:::
+
+
+## High-Quality Graphics {transition-speed="slow"}
+
+::: incremental
++ **CMYK Color Mode:** The document's color space must be CMYK (Cyan, Magenta, Yellow, Black), not RGB. This ensures accurate color reproduction on paper.
++ **Vector Graphics:** Use vector formats (like SVG) for logos, charts, and diagrams. They can be scaled to any size without losing sharpness.
+
+:::
+
+
+## High Frequency Data {.scrollable}
+
+::: columns
+::: {.column width="50%"}
+
+![](presentation/generative_graphics/oa_far4vibe2_rev.jpg){.img-fluid .rounded .mb-4 width="100%" height="auto"}
+
+:::
+
+::: {.column width="50%"}
+
+![](graphics_plots/designing_plots.png){.img-fluid .rounded .mb-4 width="100%" height="auto"}
+
+:::
+:::
+
+
+
+## Report Development Timeline {transition="slide"}
+
+```{mermaid}
+gantt
+    title OA Country Report Production Schedule
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+    
+    %% Sections for each phase
+    section Phase 1: Planning & Data Collection
+    Review and Analysis           :milestone, m1, 2025-06-09, 0d
+    Literature & Data Gathering  :active, a1, after m1, 4d
+    Data Analysis              :a2, after a1, 6d
+    Finalize Data              :milestone, m2, 2025-06-20, 0d
+    
+    section Phase 2: Report Drafting
+    Report Writing :crit, b1, 2025-06-29, 2d
+    Results Section            :b2, after b1, 3d
+    Water Carbon Chemistry   :b3, after b2, 3d
+    First Complete Draft       :milestone, m3, 2025-07-04, 0d
+    
+    section Phase 3: Review & Finalization
+    Internal Review            :crit, c1, 2025-07-04, 4d
+    Incorporate Revisions      :c2, after c1, 3d
+    Design & Layout            :c3, after c2, 2d
+    Quality Assurance          :crit, c4, 2025-07-20, 8d
+    Final Delivery             :milestone, m4, 2025-07-30, 0d
+
+```
+
+
+
+```{r}
+#| eval: false
+#| 
+require(vistime)
+
+timeline_data <- data.frame(event = c("Data\n Gathering", "Data\n Analysis", "Initial\n Draft", "Final \nDraft "),
+                            start = c("2020-06-06", "2020-06-20", "2020-06-29", "2020-07-20"), 
+                            end   = c("2020-06-20", "2020-06-29", "2020-07-20", "2020-07-31"),
+                            group = "My Events")
+# timeline_data |>
+#   vistime::vistime()
+
+timeline_data |>
+timevis::timevis()
+
+```
+
+## Asante Sana! {background-image="presentation/generative_graphics/AF_Zanzibar_Seaweed_WEB.jpg" background-size="cover" background-opacity="0.3" transition="slide" .center} 

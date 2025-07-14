@@ -1,0 +1,555 @@
+---
+title: "Confronting the Silent Threat"
+subtitle: 'The State of Ocean Acidification in Tanzania and Mozambique'
+author: 
+  # - Rushingisha George 
+  - Masumbuko Semba
+  # - Samson Job
+institute: 
+  # - Tanzania Fisheries Research Institute
+  - Nelson Mandela African Institution of Science and Technology
+  # - School of Aquatic Sciences and Fisheries Technology
+date: '2025-07-04'
+format:
+  revealjs: 
+    # background-image: "images/bg_ngalawa_web.png"
+    # background-size: cover
+    # background-position: left
+    slide-number: true
+    # chalkboard: 
+    #   buttons: false
+    preview-links: auto
+    logo: "generative_graphics/WIOMSAlogo.png" # Example logo
+    css: styles.css
+    footer: "Ocean Acidiffcation Status Report | July 4, 2025"
+    title-slide-attributes:
+      data-background-image: "generative_graphics/AF_Zanzibar_Seaweed_WEB.jpg"
+      data-background-size: cover
+      data-background-color: "rgba(0, 0, 0, 1.0)"
+    confetti:
+      particleCount: 350
+      angle: 90
+      spread: 360
+      startVelocity: 25
+      gravity: 0.65
+      drift: 0
+      ticks: 400
+      colors: ["#0366fc", "#f54281", "#1fd14f"]
+      scalar: 0.7
+revealjs-plugins:
+  - confetti
+  - pointer
+  # - attribution
+  # - quiz
+
+embed-resources: true
+theme: serif
+highlight-style: ayu-mirage
+code-line-numbers: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
+```{r}
+require(tidyverse)
+require(gt)
+require(tidyplots)
+require(plotthis)
+```
+
+#  {background="#43464B" background-image="generative_graphics/end2.jpg"}
+
+## The Ocean(s) {chalkboard-buttons="true" transition-speed="slow"}
+
+![](generative_graphics/word_map_refined-02.png)
+
+## State of OA in WIO
+
+::: columns
+::: {.column width='35%'}
+
++ Current Mean pH value is  8.1.
++ pre-industrial pH ovalue was f 8.2.
++ Down by 0.1
+
+::: 
+
+::: {.column width='65%'}
+![](generative_graphics/combined_plots_245_2030-01.png)
+:::
+:::
+
+## OA in other Oceans
+
+![](generative_graphics/combined_plots_245_2030_pacific_atlantic-01.png)
+
+## The WIO Geeography {transition="slide"}
+
+
+::: columns
+::: {.column width='45%'}
+
+<!-- + The WIO region, comprising of 10 countries  -->
++ Somalia, Kenya, Tanzania, Mozambique, South Africa, Madagascar, Comoros, Reunion, Mauritius and Seychelles.
+
+:::
+
+::: {.column width='55%' .scrollable}
+
+![](generative_graphics/wio.png)
+:::
+
+:::
+
+## OA WIO Report {transition="slide"}
+
+
+::: columns
+::: {.column width='45%'}
+
+<!-- + The WIO region, comprising of 10 countries  -->
+
+![](generative_graphics/oa_report2022.png){width="70%"}
+
+:::
+
+::: {.column width='55%'}
+
+
+Kenya, Tanzania, Mozambique, South Africa, Mauritius and Seychelles.
+
+![](generative_graphics/wio_oa_studies.png){width="70%"}
+:::
+
+:::
+
+
+<!-- 
+# TANZANIA {transition="slide"}
+
+## Ocean Acidification Monitoring {.scrollable}
+
+The ongoing decrease in the pH of the Earth's oceans
+
+::: columns
+::: {.column width="35%"}
++ Establish a network of OA in Tanzania.
++ Planning to deploy pH and other variable sensors
++ High frequency data for climate and ocean acidification.
+:::
+
+::: {.column width="65%"}
+
+![](generative_graphics/oa_monitoring_tz.png)
+
+:::
+:::
+
+#  {background="#43464B" background-image="generative_graphics/tanga_pemba_seascape.png"}
+
+## Upwelling in TANGA-PEMBA
+
+Seasonal upwelling influenced by EACC and the monsoon winds. Key characteristics include:
+
+::: columns
+::: {.column width="40%"}
++ Seasonality
++ Nutrient enrichment
++ Ecological impact
++ Economic importance
+:::
+
+::: {.column width="60%"}
+
+![](generative_graphics/tanga_wete_map_upwelling_indices-01.png)
+
+:::
+:::
+
+#  {background="#43464B" background-image="generative_graphics/tanga_wete_map_upwelling_indices-01.png"}
+ -->
+
+
+# REQUIREMENTS FOR COUNTRY REPORT {transition="slide"}
+
+A comprehensive country report on Ocean Acidification should include several key sections to ensure clarity, scientific rigor, and policy relevance.
+
+## Key Report Components {.smaller}
+
+::: incremental
++ **Executive Summary:** A concise overview of key findings and recommendations.
++ **Introduction:** Background on global and regional OA, and the national context.
++ **State of Monitoring & Research:** Summary of existing data, monitoring infrastructure, research activities, and identified gaps.
++ **Vulnerability Assessment:** Analysis of ecological and socio-economic impacts on key sectors (e.g., fisheries, aquaculture, coral reefs, tourism).
++ **Policy & Governance:** Review of relevant national policies, legal frameworks, and institutional arrangements.
++ **Capacity & Needs Assessment:** Evaluation of current national capacity (human, technical, financial) and future needs.
++ **Recommendations & Action Plan:** Concrete, actionable steps for research, mitigation, and adaptation.
+:::
+
+## Preparing Graphics for High-Quality Print {.smaller}
+
+To ensure the final report looks professional, all visual elements must be prepared correctly for printing.
+
+::: incremental
++ **High Resolution (300 DPI):** All photos and raster images must be at least 300 Dots Per Inch (DPI) at their final printed size to avoid a blurry or pixelated appearance.
++ **CMYK Color Mode:** The document's color space must be CMYK (Cyan, Magenta, Yellow, Black), not RGB. This ensures accurate color reproduction on paper.
++ **Vector Graphics:** Use vector formats (like SVG) for logos, charts, and diagrams. They can be scaled to any size without losing sharpness.
++ **Press-Quality PDF:** Export the final file as a high-quality PDF (e.g., PDF/X-1a standard), which embeds fonts and preserves layout.
++ **Bleed and Margins:** Add a 3mm "bleed" area for elements that extend to the page edge. Keep important text within a "safe zone" to avoid being trimmed off.
+:::
+
+
+## High Frequency Data {.scrollable}
+
+
+```{r}
+
+data = read_csv('../data/sample_data.csv')
+
+average_data = data |> 
+    mutate(date = as_date(date)) |> 
+    group_by(date) |> 
+    summarize(
+        do = mean(do),
+        temperature = mean(temperature),
+        ph = mean(ph)
+        ) |> 
+    ungroup()
+
+```
+
+```{r}
+#| eval: false
+#| 
+average_data |> 
+    tidyplot(x = date, y = do) |> 
+    add_line() |> 
+    add_mean_line()
+
+average_data |> 
+    tidyplot(x = date, y = do) |> 
+    add_line() |> 
+    add_mean_line()
+
+average_data |> 
+    tidyplot(x = date, y = do) |> 
+    add_line() |> 
+    add_mean_line() |> 
+    adjust_font(fontsize = 12) |> 
+    adjust_size(width = 3.5, height = 2.5, unit = 'in') |> 
+    adjust_y_axis(breaks = scales::pretty_breaks(n = 6), title = 'Dissolved Oxygen (DO)') |> 
+    adjust_x_axis(breaks = '1 month', labels = scales::label_date_short()) |> remove_x_axis_title()
+
+```
+
+
+```{r}
+#| eval: false
+#| 
+average_data |> 
+    mutate(
+        day = day(date), month = month(date, abbr = T, label = T) |> as.character(),
+        upwelling = if_else(month %in% c("Feb", 'Mar'), 'Upwelling', 'Downwelling')) |> 
+    tidyplot(x = day, y = do, color = month, dodge_width = 0) |>
+    # add_mean_line(group = month, alpha = 0.08) |>
+    add_mean_line() 
+
+
+```
+
+
+```{r}
+oo = average_data |> 
+    mutate(
+        day = day(date), month = month(date, abbr = T, label = T)) |> 
+    select(day, month, do) |> 
+    pivot_wider(names_from = month, values_from = do)
+    
+oo = oo |> 
+    slice(25:31) |> bind_rows(oo |> slice(1:24)) 
+    
+# oo |> 
+#     gt() |> 
+#     fmt_number(columns = Oct:Apr, decimals = 2) |> 
+#     fmt_missing(columns = everything(), missing_text = '-') |> 
+#     data_color(columns = Oct:Apr, palette = 'Blues', method = 'factor') |> 
+#     tab_options(latex.use_longtable = TRUE, data_row.padding = px(4), table.font.size = px(12)) 
+
+
+ph = average_data |> 
+    mutate(
+        day = day(date), month = month(date, abbr = T, label = T)) |> 
+    select(day, month, ph) |> 
+    pivot_wider(names_from = month, values_from = ph)
+    
+ph = ph |> 
+    slice(25:31) |> bind_rows(ph |> slice(1:24)) 
+    
+# ph |> 
+#     gt() |> 
+#     fmt_number(columns = Oct:Apr, decimals = 2) |> 
+#     fmt_missing(columns = everything(), missing_text = '-') |> 
+#     data_color(columns = Oct:Apr, palette = 'Blues', method = 'factor') |> 
+#     tab_options(latex.use_longtable = TRUE, data_row.padding = px(4), table.font.size = px(12)) 
+
+
+
+temp = average_data |> 
+    mutate(
+        day = day(date), month = month(date, abbr = T, label = T)) |> 
+    select(day, month, temperature ) |> 
+    pivot_wider(names_from = month, values_from = temperature )
+    
+temp = temp |> 
+    slice(25:31) |> bind_rows(temp |> slice(1:24))
+    
+# temp |> gt() |> 
+    # fmt_number(columns = Oct:Apr, decimals = 2) |> 
+    # fmt_missing(columns = everything(), missing_text = '-') |> 
+    # data_color(columns = Oct:Apr, palette = 'Reds', method = 'factor') |> 
+    # tab_options(latex.use_longtable = TRUE, data_row.padding = px(4), table.font.size = px(12)) 
+
+
+```
+
+
+```{r}
+oo |> 
+    bind_cols(temp |> select(-day), ph |> select(-day)) |> 
+    gt() |> 
+    fmt_number(columns = -1, decimals = 2) |> 
+    fmt_missing(columns = everything(), missing_text = '-') |> 
+    tab_options(latex.use_longtable = TRUE, data_row.padding = px(4), table.font.size = px(12)) |> 
+    data_color(columns = 2:8, palette = 'Greens', method = 'factor') |> 
+    data_color(columns = 9:15, palette = 'Reds', method = 'factor') |> 
+    data_color(columns = 16:22, palette = 'Blues', method = 'factor') |> 
+    tab_spanner(columns = 2:8, label = 'Dissolved Oxygen') |> 
+    tab_spanner(columns = 9:15, label = 'Temperature') |> 
+    tab_spanner(columns = 16:22, label = 'pH') |> 
+    cols_label(
+        day ~ 'Day',
+        "Oct...2"  ~ "Oct",
+        "Nov...3"   ~ "Nov",
+        "Dec...4"   ~ "Dec",
+        "Jan...5"   ~ "Jan",
+        "Feb...6"   ~ "Feb",
+        "Mar...7"   ~ "Mar",
+        "Apr...8"   ~ "Apr",
+        "Oct...9"   ~ "Oct",
+        "Nov...10"  ~ "Nov",
+        "Dec...11"   ~ "Dec",
+        "Jan...12"   ~ "Jan",
+        "Feb...13"   ~ "Feb",
+        "Mar...14"  ~ "Mar",
+        "Apr...15"   ~ "Apr",
+        "Oct...16"   ~ "Oct",
+        "Nov...17"   ~ "Nov",
+        "Dec...18"   ~ "Dec",
+        "Jan...19"   ~ "Jan",
+        "Feb...20"   ~ "Feb",
+        "Mar...21"  ~ "Mar",
+        "Apr...22"  ~ "Apr"
+        )
+
+
+```
+
+
+
+## High Frequency Data {.scrollable}
+
+::: columns
+::: {.column width="50%"}
+
+![](generative_graphics/oa_far4vibe2_rev.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+![](generative_graphics/scenarios_time_series_parameters.jpg)
+
+:::
+:::
+
+
+
+
+## Report Development Timeline
+
+```{mermaid}
+gantt
+    title Country Report Production Schedule
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+    
+    %% Sections for each phase
+    section Phase 1: Planning & Data Collection
+    Kick-off Meeting           :milestone, m1, 2025-06-29, 0d
+    Research & Data Gathering  :active, a1, after m1, 4d
+    Data Analysis              :a2, after a1, 6d
+    Finalize Data              :milestone, m2, 2025-07-10, 0d
+    
+    section Phase 2: Report Drafting
+    Introduction & Methodology :crit, b1, 2025-07-11, 2d
+    Results Section            :b2, after b1, 3d
+    Vulnerability Assessment   :b3, after b2, 3d
+    First Complete Draft       :milestone, m3, 2025-07-22, 0d
+    
+    section Phase 3: Review & Finalization
+    Internal Review            :crit, c1, 2025-07-23, 2d
+    Incorporate Revisions      :c2, after c1, 3d
+    Design & Layout            :c3, after c2, 2d
+    Quality Assurance          :crit, c4, 2025-07-29, 1d
+    Final Delivery             :milestone, m4, 2025-07-30, 0d
+
+```
+
+
+## Report Development Timeline {.smaller}
+
+```{mermaid}
+gantt
+    title Country Report Timeline
+    dateFormat  YYYY-MM-DD
+    section Phases
+    Planning       :done, p1, 2025-06-29, 2025-07-10
+    Drafting       :active, p2, 2025-07-11, 11d
+    Finalization   : p3, 2025-07-23, 7d
+```
+
+<!-- ## Report Development Timeline {.smaller} -->
+
+```{r}
+#| eval: false
+#| 
+library(tidyverse)
+require(gt)
+
+report_timeline <- tribble(
+  ~Phase,        ~Task,                       ~Start_Date, ~End_Date,   ~Status,        ~Owner,
+  #----------------|----------------------------|------------|------------|---------|-----------
+  "Planning",    "Kick-off Meeting",         "2025-06-29", "2025-06-29", "Completed",  "PM",
+  "Planning",    "Data Collection",         "2025-06-30", "2025-07-05", "Completed",  "Research",
+  "Planning",    "Data Analysis",           "2025-07-06", "2025-07-10", "Completed",  "Analytics",
+  "Drafting",    "Introduction/Methods",    "2025-07-11", "2025-07-14", "In Progress", "Writer",
+  "Drafting",    "Results Section",         "2025-07-15", "2025-07-19", "Pending",     "Writer",
+  "Drafting",    "Final Draft Compilation", "2025-07-20", "2025-07-22", "Pending",     "Editor",
+  "Finalization","Internal Review",         "2025-07-23", "2025-07-25", "Pending",     "Team",
+  "Finalization","Revisions",               "2025-07-26", "2025-07-28", "Pending",     "Writer",
+  "Finalization","Proofreading",           "2025-07-29", "2025-07-29", "Pending",     "QA"
+) |> 
+  mutate(
+    Start_Date = as.Date(Start_Date),
+    End_Date = as.Date(End_Date),
+    Duration = as.numeric(End_Date - Start_Date) + 1,  # Inclusive counting
+    Phase = factor(Phase, levels = c("Planning", "Drafting", "Finalization")),
+    Status = factor(Status, levels = c("Completed", "In Progress", "Pending"))
+  )
+
+  report_timeline |> gt()
+```
+
+
+<!-- 
+
+#  {background="#43464B" background-image="generative_graphics/end5.jpg"}
+
+## SSP1: Sustainability {.scrollable chalkboard-buttons="true"}
+
+
+::: columns
+::: {.column width='62%'}
+Focuses on sustainable development, with low challenges for mitigation and adaptation.
+
++ Low population growth due to improved education and healthcare.
++ High economic growth with a focus on reducing inequality.
++ Rapid decarbonization of the energy sector.
+
+:::
+
+::: {.column width='38%'}
+
+![](generative_graphics/combined_plots_126-01.png)
+:::
+
+:::
+
+## SSP2: Low Emissions Scenario {transition="slide"}
+
+
+::: columns
+::: {.column width='62%'}
+Global temperature rise is limited to below 2°C, with a goal of 1.5°C above pre-industrial levels.
+
++ RHeavy cuts in greenhouse gas emissions.
++ Reliance on carbon capture and storage (CCS) and negative emissions technologies.
++ Reduction in fossil fuel use  and expansion of renewable energy.
+
+:::
+
+::: {.column width='38%'}
+
+![](generative_graphics/combined_plots_245-01.png)
+:::
+
+:::
+
+## SSP3: Regional Rivalry 
+
+
+::: columns
+::: {.column width='62%'}
+Limited international cooperation, with countries focusing on self-sufficiency and national interests
+
++ Global population reaches around 12 billion by 2100.
++ UWidening gaps between rich and poor countries.
++ Weak global institutions and limited climate action.
+
+:::
+
+::: {.column width='38%'}
+
+![](generative_graphics/combined_plots_370-01.png)
+:::
+
+:::
+
+
+## SSP4: Inequality {transition="slide"}
+
+
+::: columns
+::: {.column width='62%'}
+Weak global cooperation, with countries focusing on their own interests rather than collective action.
+
++ Unequal economic growth
++ Limited access to technology: .
++ High population growth in poor regions: 
++ Fragmented governance
+
+:::
+
+::: {.column width='38%'}
+
+![](generative_graphics/combined_plots_585-01.png)
+:::
+
+:::
+
+#  {background="#43464B" background-image="generative_graphics/end4.jpg"}
+
+#  {background="#43464B" background-image="generative_graphics/cover_page_IMPLEMENTATION.jpg"}
+
+#  {background="#43464B" background-image="generative_graphics/end3.jpg"}
+
+## Barriers {transition="slide"}
+
+![](barriers-01.png)
+
+# {background="#43464B" background-image="generative_graphics/katuni_oa.png"} -->
+
+#  {background="#43464B" background-image="generative_graphics/end.jpg"}
