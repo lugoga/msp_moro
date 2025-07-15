@@ -104,7 +104,75 @@ A public process for organizing the use of our oceans. Think of it as **urban pl
 :::
 :::
 
+## A Conceptual View of MSP
+
+At its core, MSP transforms information about our oceans into a balanced plan for a sustainable future through a transparent public process.
+
+```{r}
+#| label: fig-msp-conceptual
+#| fig-cap: "A conceptual model showing the core process of Marine Spatial Planning."
+#| eval: false
+
+DiagrammeR::grViz("
+digraph msp_concept {
+  graph [layout = dot, rankdir = TD, splines=true, overlap=false, bgcolor='transparent', compound=true, fontname='Poppins']
+  
+  
+  # Node styles
+  node [shape = box, style = 'rounded,filled', fontname = 'Poppins', color='#333333']
+  
+  # Input nodes (The Data/Analysis)
+  subgraph cluster_inputs {
+    label = '1. Analyze & Understand';
+    style=filled;
+    color='#f0f8ff';
+    node [style=filled, color=white, penwidth=2];
+    inputs [label = '{Ecological Data|Economic Data|Social & Cultural Data}', shape=record, fillcolor='#d1e7dd'];
+  }
+
+  # Process node
+  process_node [label = '2. Plan & Balance\\n(Public Process)', shape=Mdiamond, fillcolor='#cff4fc', fontsize=18, penwidth=2];
+
+  # Outcome nodes (The Goals)
+  subgraph cluster_outcomes {
+      label = '3. Achieve Objectives';
+      style=filled;
+      color='#f0fff0';
+      node [style=filled, color=white, penwidth=2];
+      outcomes [label = '{Sustainable Economy|Healthy Ecosystems|Social Well-being}', shape=record, fillcolor='#d4edda'];
+  }
+  
+  # Edges to show flow
+  edge [fontname = 'Poppins', color='#555555', penwidth=1.5]
+  inputs -> process_node [label=' Informs '];
+  process_node -> outcomes [label=' Leads to '];
+}
+")
+```
+
+
 ## {background-image="assets/web_dar_container_cool.jpg" background-size="cover" background-opacity="1.0"}
+
+
+## {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="1.0"}
+
+
+## Spotlight: Kwala Commercial & Investment City {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="0.3"}
+
+::: columns
+::: {.column width="33%"}
+{{< bi geo-alt-fill >}} **Strategic Logistics Hub**
+Designed to be the central logistics and industrial gateway for East and Central Africa.
+:::
+::: {.column width="33%"}
+{{< bi graph-up-arrow >}} **Investment Incentives**
+It offers attractive for foreign and local investment in manufacturing and trade.
+:::
+::: {.column width="34%"}
+{{< bi buildings-fill >}} **Integrated Modern City**
+A comprehensive city with industrial parks, warehousing, commercial centers, and residential areas.
+:::
+:::
 
 ## What is the primary goal of MSP? {.quiz-question} 
 
@@ -618,6 +686,10 @@ Our goal is to work together. Let's focus our discussion on these key questions:
   <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #070000; position: absolute; bottom: -20px; right: 20px; line-height: 0; opacity: 0.7;">”</span>
 </div>
 
+::: {.column-screen}
+![](assets/coat_tnc_iki_logo.svg){width="150%"}
+:::
+
  
  
 ## SCAN to Reach US!
@@ -674,6 +746,3 @@ qs = qrcode::qr_vcard(
 ![](semba_qr.svg)
 :::
 :::::
-
-
-
