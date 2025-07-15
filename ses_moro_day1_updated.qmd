@@ -2,11 +2,11 @@
 title: "The Marine Spatial Planning of Tanzania"
 subtitle: 'WHERE ARE WE?'
 author: 
-  - Stephen Holness
   - Masumbuko Semba
+  - Stephen Holness
 institute: 
-  - Nelson Mandela University, South Africa
   - Nelson Mandela African Institution of Science and Technology, Tanzania
+  - Nelson Mandela University, South Africa
 date: '2025-07-15'
 format:
   revealjs: 
@@ -133,9 +133,13 @@ The core objectives of Marine Spatial Planning are to:
 :::
 :::
 
-# Tanzania's Preparedness for MSP 
+# Preparedness for MSP {background-image="assets/web_tourism_beach.jpg" background-size="cover" background-opacity=".4"}
 
-We are building on a strong foundation of existing work. Key documents and processes are already in place to guide our efforts.
+
+<!-- Building on a strong foundation of existing work. Key documents and processes are already in place to guide the MSP process. -->
+
+![](assets/fig5_1.png)
+
 
 ## MSP SCOPING
 ::: {.columns}
@@ -208,11 +212,13 @@ We are building on a strong foundation of existing work. Key documents and proce
 :::
 :::
 
-# Marine Sectors
+# Sectors in MSP {background-image="assets/web_octopus_two_peopples.jpg" background-size="cover" background-opacity=".4"}
 
-Key sectors operating in Tanzania's marine space.
+<!-- Key sectors operating in Tanzania's marine space. -->
 
-## Main Marine Sectors
+![](assets/web_marine_sectors.png)
+
+## Marine Sectors
 
 Key sectors operating in Tanzania's marine space.
 
@@ -293,7 +299,7 @@ Activities range from diving and snorkeling to cultural heritage tours.
 :::
 :::
 
-## Tourism: A Pillar of the Blue Economy 
+## A Pillar of the Blue Economy 
 
 **Driving Growth and Showcasing Natural Heritage**
 
@@ -419,7 +425,7 @@ offshore_gas_discoveries |>
 
 ```
 
-## Energy: Powering National Development 
+## Powering National Development 
 
 **Harnessing Offshore Resources for Growth**
 
@@ -499,7 +505,19 @@ connect Tanzania to the global internet
 :::
 :::
 
-# Data
+
+# [Data]{.my-custom-class style="font-size: 16.5rem; color: #ffffff;"} {background-image="assets/wed_data.jpg" background-size="cover" background-opacity="1.0"}
+
+
+<div style="position: relative; max-width: 1000px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #ffffff; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color: #ffffff; margin: 0; padding: 0 4rem;">Data is key for Marine Spatial Planning (MSP) because it guides decisions, spots issues, and helps manage resources sustainably.</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #ffffff; position: absolute; bottom: -20px; right: 250px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
+
+
+## [Spatial Data]{.my-custom-class style="font-size: 9.5rem; color: #ffffff;"} {background-image="assets/web_insula.jpg" background-size="cover" background-opacity="1.0" transition="slide" .center}
 
 ## Our State of Spatial Data
 
@@ -509,10 +527,11 @@ connect Tanzania to the global internet
 -   **Our Integration Process:** How we are bringing this diverse information together for analysis.
 :::
 
-## Our State of Spatial Data {.scrollable}
+<!-- ## Our State of Spatial Data {.scrollable} -->
 
 
 ```{r}
+#| eval: false
 
 # Read data and ensure value columns are ordered factors for consistent coloring
 ranked_layers <- readxl::read_excel('data_related/data_inventory_modified_donna.xlsx', sheet = 2) |>
@@ -566,9 +585,17 @@ ranked_layers |>
 ```
 
 
-# Way forward {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
 
-The success of Marine Spatial Planning in Tanzania depends on **your expertise and collaboration**.
+# [Way forward]{.my-custom-class style="font-size: 9.5rem; color: #070000;"}  {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
+
+
+<div style="position: relative; max-width: 1000px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #070000; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 2.5rem; color: #070000; margin: 0; padding: 0 4rem;">The success of Marine Spatial Planning in Tanzania depends on our expertise and collaboration
+</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #070000; position: absolute; bottom: -20px; right: 250px; line-height: 0; opacity: 0.7;">”</span>
+</div>
+
 
 ## **The Way Forward: Your Role** {background-image="assets/web_tourism_beach_ngalawa.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
 
@@ -581,9 +608,18 @@ Our goal is to work together. Let's focus our discussion on these key questions:
 :::
 
 
-## {{< bi people-fill color=white size=12.1rem  >}} Asante Sana! {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.6" transition="slide" .center}
+# [ASANTE]{.my-custom-class style="font-size: 16.5rem; color:rgb(26, 24, 24);"} {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.6" transition="slide" .center}
 
+<div style="position: relative; max-width: 1000px; margin: 2rem auto; padding: 2rem; font-family: Georgia, serif; font-size: 1.5rem; line-height: 1.6; color: #333; text-align: center;">
+  <span style="font-family: 'Times New Roman', serif; font-size: 14rem; color: #070000; position: absolute; top: 0; left: 10px; line-height: 1; opacity: 0.7;">“</span>
+  <p style="font-style: italic; font-family: Poppins;font-size: 4.5rem; color: #070000; margin: 0; padding: 0 4rem;">
+  Plan, Partner, Protect
+</p>
+  <span style="font-family: 'Times New Roman', serif; font-size: 15rem; color: #070000; position: absolute; bottom: -20px; right: 20px; line-height: 0; opacity: 0.7;">”</span>
+</div>
 
+ 
+ 
 ## SCAN to Reach US!
 
 ::::: columns
