@@ -87,26 +87,27 @@ require(highcharter)
 :::
 
 
-## What is Marine Spatial Planning?{.scrollable transition="slide"}
-A public process for organizing the use of our oceans. Think of it as **urban planning for the sea**
+## What is Marine Spatial Planning?
+A public process for organizing the use of our oceans.
 
 ::: columns
-::: {.column width='70%'}
+::: {.column width='50%'}
 ::: incremental
-* **Analyzing** the current and future uses of marine space. 
-* **Allocating** areas for specific activities (e.g., fishing, conservation, energy). 
-* **Balancing** ecological, economic, and social objectives.
+* {{< bi clipboard-data >}} **Analyzing** the current and future uses of marine space. 
+* {{< bi map >}} **Allocating** areas for specific activities 
+* {{< bi check-circle-fill >}} **Balancing** ecological, economic, and social objectives.
 :::
 :::
 
-::: {.column width='30%'}
-![](assets/web_ngalawa.jpg)
+::: {.column width='50%'}
+<!-- ![](assets/web_ngalawa.jpg) -->
+![](assets/msp_concept.png)
 :::
 :::
 
-## A Conceptual View of MSP
+<!-- ## A Conceptual View of MSP
 
-At its core, MSP transforms information about our oceans into a balanced plan for a sustainable future through a transparent public process.
+At its core, MSP transforms information about our oceans into a balanced plan for a sustainable future through a transparent public process. -->
 
 ```{r}
 #| label: fig-msp-conceptual
@@ -585,7 +586,7 @@ connect Tanzania to the global internet
 
 
 
-## [Spatial Data]{.my-custom-class style="font-size: 9.5rem; color: #ffffff;"} {background-image="assets/web_insula.jpg" background-size="cover" background-opacity="1.0" transition="slide" .center}
+<!-- ## [Spatial Data]{.my-custom-class style="font-size: 9.5rem; color: #ffffff;"} {background-image="assets/web_insula.jpg" background-size="cover" background-opacity="1.0" transition="slide" .center} -->
 
 ## Our State of Spatial Data
 
@@ -595,11 +596,11 @@ connect Tanzania to the global internet
 -   **Our Integration Process:** How we are bringing this diverse information together for analysis.
 :::
 
-<!-- ## Our State of Spatial Data {.scrollable} -->
+## Our State of Spatial Data {.scrollable}
 
 
 ```{r}
-#| eval: false
+#| eval: true
 
 # Read data and ensure value columns are ordered factors for consistent coloring
 ranked_layers <- readxl::read_excel('data_related/data_inventory_modified_donna.xlsx', sheet = 2) |>
@@ -652,7 +653,59 @@ ranked_layers |>
   )
 ```
 
+## **Key Ecological Data Layers** {background-image="assets/web_conservations.jpg" background-size="cover" background-opacity="0.3"}
 
+Fundamental for identifying biodiversity hotspots and critical areas.
+
+::: columns
+::: {.column width="50%"}
+ {{< bi diagram-3-fill >}} **Habitats & Ecosystems**
+
+::: incremental
+- {{< bi 1-circle-fill >}} **Coral Reefs:** Location, health, and type.
+- {{< bi 2-circle-fill >}} **Mangrove Forests:** Extent and condition.
+- {{< bi 3-circle-fill >}} **Seagrass Beds:** Distribution and density.
+- {{< bi 4-circle-fill >}} **Key Seabed Features:** Seamounts and canyons.
+:::
+:::
+::: {.column width="50%"}
+{{< bi fingerprint >}} **Species & Processes**
+
+::: incremental
+- {{< bi 1-square-fill >}} **Fish Spawning & Nursery Areas:** Critical for fisheries.
+- {{< bi 2-square-fill >}} **Marine Mammal Corridors:** Migration and feeding areas.
+- {{< bi 3-square-fill >}} **Sea Turtle Nesting Beaches:** Key nesting sites.
+- {{< bi 4-square-fill >}} **Areas of High Biodiversity:** Hotspots of species richness.
+:::
+:::
+:::
+
+## **Key Economic & Social Data Layers** {background-image="assets/web_fishing_vessels.jpg" background-size="cover" background-opacity="0.3"}
+
+Understanding the human dimensions of our marine space.
+
+::: columns
+::: {.column width="50%"}
+{{< bi cash-coin >}} **Economic Activities**
+
+::: incremental
+- {{< bi sign-merge-right >}} **Shipping & Port Activity:** Vessel density and routes.
+- {{< bi graph-up-arrow >}} **Fishing Effort & Value:** Where and how much fishing occurs.
+- {{< bi umbrella >}} **Tourism Areas:** Hotel locations, dive sites, popular beaches.
+- {{< bi lightning-charge >}} **Energy Leases & Pipelines:** Current and proposed infrastructure.
+:::
+:::
+::: {.column width="50%"}
+{{< bi people-fill >}} **Social & Cultural**
+
+::: incremental
+- {{< bi house-heart >}} **Coastal Community Livelihoods:** Dependence on marine resources.
+- {{< bi moon-stars >}} **Culturally Significant Sites:** Sacred areas, historic shipwrecks.
+- {{< bi universal-access >}} **Recreational Use Areas:** Boating, swimming, local recreation.
+- {{< bi hdd-network >}} **Submarine Cable Routes:** Critical communication infrastructure.
+:::
+:::
+:::
 
 # [Way forward]{.my-custom-class style="font-size: 9.5rem; color: #070000;"}  {background-image="assets/web_octopus_seaweed.jpg" background-size="cover" background-opacity="0.2" transition="slide" .center}
 
@@ -670,9 +723,9 @@ ranked_layers |>
 Our goal is to work together. Let's focus our discussion on these key questions:
 
 ::: incremental
-1.  **Data Review:** What are the strengths and weaknesses of our current spatial data? What's missing?
-2.  **Issue Identification:** What are the most critical conflicts or challenges we haven't captured?
-3.  **Opportunities:** Where are the biggest opportunities for win-win solutions and collaboration?
+1.  {{< bi file-earmark-text >}} **Data Review:** What are the strengths and weaknesses of our current spatial data? What's missing?
+2.  {{< bi exclamation-triangle >}} **Issue Identification:** What are the most critical conflicts or challenges we haven't captured?
+3.  {{< bi lightbulb >}} **Opportunities:** Where are the biggest opportunities for win-win solutions and collaboration?
 :::
 
 

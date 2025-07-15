@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="370.09201mm"
+   height="351.17746mm"
+   viewBox="0 0 370.09202 351.17746"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="msp_concept.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.54208404"
+     inkscape:cx="369.86885"
+     inkscape:cy="703.76542"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker42"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker38"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path38" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(137.15201,-18.547247)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#330080;stroke-width:1.25798;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -82.827502,149.40343 c -0.974403,20.16291 130.437278,11.58798 139.611382,55.18654"
+       id="path39"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#330080;stroke-width:1.25798;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m 56.803741,149.5301 -0.09592,55.54847"
+       id="path41"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#330080;stroke-width:1.25798;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 180.52109,149.26775 c 0.54937,22.67664 -111.252331,12.00243 -123.94072,55.44092"
+       id="path40"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#e5d5ff;stroke:#4400aa;stroke-width:2.09336;stroke-miterlimit:2.5;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect17"
+       width="80.781342"
+       height="49.451313"
+       x="0.45926291"
+       y="27.549837"
+       ry="8.1188707" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#330080;fill-opacity:1;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="40.654907"
+       y="44.609741"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#330080;fill-opacity:1;stroke-width:2.28876"
+         x="40.654907"
+         y="44.609741">MARINE </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#330080;fill-opacity:1;stroke-width:2.28876"
+         x="40.654907"
+         y="56.592072"
+         id="tspan2">SPATIAL </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#330080;fill-opacity:1;stroke-width:2.28876"
+         x="40.654907"
+         y="68.574402"
+         id="tspan3">PLANNING</tspan></text>
+    <rect
+       style="opacity:1;fill:#d5e5ff;stroke:#0b1728;stroke-width:1.88697;stroke-miterlimit:2.5;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect16"
+       width="92.531548"
+       height="36.361374"
+       x="-126.58326"
+       y="112.62405"
+       ry="5.9697776" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#214478;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="-121.42859"
+       y="130.45547"
+       id="text12"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;stroke-width:2.28876"
+         x="-121.42859"
+         y="130.45547"
+         id="tspan12">ECOLOGICAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3771c8;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="-121.13659"
+       y="139.95284"
+       id="text20"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3771c8;stroke-width:2.28876"
+         x="-121.13659"
+         y="139.95284"
+         id="tspan20">ECOLOGICAL DATA</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffe6d5;stroke:#aa4400;stroke-width:1.88697;stroke-miterlimit:2.5;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect19"
+       width="98.501328"
+       height="36.361374"
+       x="-5.8092828"
+       y="112.63504"
+       ry="5.9697776" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#aa4400;fill-opacity:1;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="-0.11402839"
+       y="131.00917"
+       id="text9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aa4400;fill-opacity:1;stroke-width:2.28876"
+         x="-0.11402839"
+         y="131.00917"
+         id="tspan9">ECONOMICAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#aa4400;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="0.17796795"
+       y="139.42111"
+       id="text21"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aa4400;stroke-width:2.28876"
+         x="0.17796795"
+         y="139.42111"
+         id="tspan21">ECONOMIC DATA</tspan></text>
+    <rect
+       style="opacity:1;fill:#d5ffe6;stroke:#005522;stroke-width:1.88697;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect20"
+       width="102.57163"
+       height="36.361374"
+       x="124.23545"
+       y="112.64233"
+       ry="5.9697776" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#005522;fill-opacity:1;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="132.19586"
+       y="130.30821"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#005522;fill-opacity:1;stroke-width:2.28876"
+         x="132.19586"
+         y="130.30821"
+         id="tspan6">SOCIAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#005522;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="132.38383"
+       y="140.09497"
+       id="text22"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#005522;stroke-width:2.28876"
+         x="132.38383"
+         y="140.09497"
+         id="tspan22">SOCIAL &amp; CULTURAL DATA</tspan></text>
+    <path
+       style="opacity:1;fill:#7f2aff;fill-opacity:1;stroke:#4400aa;stroke-width:1.25798;stroke-miterlimit:2.5;stroke-dasharray:none;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m -33.388934,127.58321 21.873855,-0.0959"
+       id="path31"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#7f2aff;fill-opacity:1;stroke:#4400aa;stroke-width:1.25798;stroke-miterlimit:2.5;stroke-dasharray:none;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m -6.8897335,133.40793 -21.9697945,-0.0959"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g37"
+       transform="matrix(0,-1.5724781,-1.5724781,0,166.28927,331.72543)">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#4400aa;stroke-width:0.8;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;marker-end:url(#Triangle);paint-order:markers stroke fill"
+         d="m 139.71308,73.484742 c 16.04836,-7.54936 8.09906,4.065963 18.17569,3.510609"
+         id="path36"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#4400aa;stroke-width:0.8;stroke-miterlimit:0.5;stroke-dasharray:none;marker-end:url(#marker38);paint-order:markers stroke fill"
+         d="m 160.4982,78.049367 c -10.73683,9.364062 -7.9476,-1.875573 -18.15423,-2.353946"
+         id="path37"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#f4d7e3;fill-opacity:1;stroke:#50162d;stroke-width:2.1007;stroke-miterlimit:2.5;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect37"
+       width="64.724648"
+       height="64.724648"
+       x="-265.28006"
+       y="264.15012"
+       transform="matrix(0.89183566,-0.45235955,0.89183566,0.45235955,0,0)"
+       ry="0" />
+    <path
+       style="opacity:1;fill:#7f2aff;fill-opacity:1;stroke:#4400aa;stroke-width:1.25798;stroke-miterlimit:2.5;stroke-dasharray:none;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m 93.636539,126.76915 25.423571,-0.0959"
+       id="path43"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#7f2aff;fill-opacity:1;stroke:#4400aa;stroke-width:1.25798;stroke-miterlimit:2.5;stroke-dasharray:none;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m 123.68546,132.59387 -25.999192,-0.0959"
+       id="path44"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#330080;stroke-width:1.25798;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker42);paint-order:markers stroke fill"
+       d="m 56.803741,269.83631 -0.09592,37.32025"
+       id="path46"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#d5d5ff;stroke:#000080;stroke-width:1.88697;stroke-miterlimit:2.5;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect46"
+       width="160.03604"
+       height="49.940464"
+       x="-18.978283"
+       y="312.90686"
+       ry="8.1991796" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000d4;fill-opacity:1;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="-11.616529"
+       y="330.26984"
+       id="text49"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:2.28876"
+         x="-11.616529"
+         y="330.26984">SUSTAINABLE ECONMY</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:2.28876"
+         x="-11.616529"
+         y="342.25217"
+         id="tspan48">HEALTHY ECOSYSTEM </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:2.28876"
+         x="-11.616529"
+         y="354.2345"
+         id="tspan49">SOCIAL WELL-BEING</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(137.15201,-18.547247)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a02c5a;fill-opacity:1;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="56.987339"
+       y="237.43271"
+       id="text45"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#a02c5a;fill-opacity:1;stroke-width:2.28876"
+         x="56.987339"
+         y="237.43271"
+         id="tspan45">PLAN &amp; </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.3137px;font-family:Aptos;-inkscape-font-specification:'Aptos, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#a02c5a;fill-opacity:1;stroke-width:2.28876"
+         x="56.987339"
+         y="249.41504"
+         id="tspan46">BALANCE</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.73773;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect51"
+       width="4.317203"
+       height="17.940407"
+       x="54.394306"
+       y="278.97327"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#214478;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="39.365704"
+       y="286.51471"
+       id="text50"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;stroke-width:2.28876"
+         x="39.365704"
+         y="286.51471"
+         id="tspan50">LEADS TO </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;stroke-width:2.28876"
+         x="39.365704"
+         y="293.50439"
+         id="tspan51">ACHIEVES</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.73773;stroke-linejoin:miter;stroke-miterlimit:1.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect52"
+       width="4.317203"
+       height="17.940407"
+       x="54.394306"
+       y="156.74832"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;line-height:0.9;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#214478;stroke-width:2.28874;stroke-miterlimit:2.5;paint-order:markers stroke fill"
+       x="35.205208"
+       y="164.28973"
+       id="text53"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;stroke-width:2.28876"
+         x="35.205208"
+         y="164.28973"
+         id="tspan53">ANALYSE &amp; </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7663px;font-family:Aptos;-inkscape-font-specification:'Aptos, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;stroke-width:2.28876"
+         x="35.205208"
+         y="171.2794"
+         id="tspan54">UNDERSTAND</tspan></text>
+  </g>
+</svg>
