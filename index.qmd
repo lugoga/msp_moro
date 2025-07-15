@@ -117,8 +117,26 @@ A public process for organizing the use of our oceans.
 ::: {.column width='50%'}
 <!-- ![](assets/web_ngalawa.jpg) -->
 ![](assets/msp_concept.png)
+
 :::
 :::
+
+
+
+## MSP Video
+
+{{< video https://youtu.be/coIK1Gnpqqg width="100%" height="85%"  >}}
+
+
+
+## Land use plan {background-iframe="https://semba.shinyapps.io/digital/" background-interactive=True}
+
+## Coastal Areas {background-iframe="https://semba.shinyapps.io/besa/" background-interactive=True}
+
+## Fisheries Pattern Mapping {background-iframe="https://lugoga.github.io/patternFishery/" background-interactive=True}
+
+## Exclusive Economic Zone {background-iframe="https://semba.shinyapps.io/vizingaApp/" background-interactive=True}
+
 
 <!-- ## A Conceptual View of MSP
 
@@ -167,13 +185,13 @@ digraph msp_concept {
 ```
 
 
-## {background-image="assets/web_dar_container_cool.jpg" background-size="cover" background-opacity="1.0"}
+<!-- ## {background-image="assets/web_dar_container_cool.jpg" background-size="cover" background-opacity="1.0"} -->
 
 
-## {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="1.0"}
+<!-- ## {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="1.0"} -->
 
 
-## Spotlight: Kwala Commercial & Investment City {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="0.3"}
+<!-- ## Spotlight: Kwala Commercial & Investment City {background-image="assets/web_kwala.jpg" background-size="cover" background-opacity="0.3"}
 
 ::: columns
 ::: {.column width="33%"}
@@ -188,13 +206,35 @@ It offers attractive for foreign and local investment in manufacturing and trade
 {{< bi buildings-fill >}} **Integrated Modern City**
 A comprehensive city with industrial parks, warehousing, commercial centers, and residential areas.
 :::
-:::
+::: -->
 
-## What is the primary goal of MSP? {.quiz-question} 
+
+
+
+
+
+<!-- ::: incremental
+::: columns
+::: {.column width="33%"}
+{{< bi geo-alt-fill >}} **Maps Seabed Habitats**
+Provides the essential ground-truth data on the location of critical ecosystems like coral reefs and seagrass beds, forming the foundation for planning.
+:::
+::: {.column width="33%"}
+{{< bi graph-up-arrow >}} **Conservation Priorities**
+Pinpoints biodiversity hotspots and ecologically significant areas, guiding the strategic protection of resources that support fisheries and tourism.
+:::
+::: {.column width="34%"}
+{{< bi buildings-fill >}} **Guides Conflict-Free**
+Enables planners to make evidence-based decisions, siting infrastructure and managing activities to avoid damaging sensitive habitats and reduce user conflicts.
+:::
+:::
+::: -->
+
+<!-- ## What is the primary goal of MSP? {.quiz-question} 
 
 -   To increase offshore oil and gas drilling without restrictions
 -   [To balance ecological, economic, and social objectives in marine areas]{.correct}
--   To restrict all fishing activities in Tanzanian waters
+-   To restrict all fishing activities in Tanzanian waters -->
 
 ## Goals of MSP {background-image="assets/web_seaweed_farm_intertidal.jpg" background-size="cover" background-opacity=".4"}
 
